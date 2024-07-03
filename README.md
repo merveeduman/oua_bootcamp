@@ -14,7 +14,7 @@ Müberra Sinem - Developer
 
 27.06.2024 (İkinci çevrimiçi toplantı)
 
-27.06.2024 tarihli ikinci çevrimiçi toplantıda grup üyelerinin not ettiği mobil uygulama fikirleri ortaya atılarak hem kullanıcı perspektifinden, hem yatırımcı perspektifinden, hem de teknik uygulanabilirlik açısından değerlendirilerek olası fikirler sayı olarak ikiye indirgenmiştir. Bu iki fikrin aynı perspektiflerden karşılaştırılması ve gelecek toplantıda nihai fikrin netleştirilmesi üzerinde sözleşilmiştir. Ayrıca proje yönetimi süreci boyunca sprint board olarak Trello kullanma kararı alınmıştır. Fikrin netleşmesinden itibaren görevlerin saptanarak sprint board üzerinden takvimlendirilmesi ve ilgili üyelere atanması kararı alınmıştır. 
+27.06.2024 tarihli ikinci çevrimiçi toplantıda grup üyelerinin not ettiği mobil uygulama fikirleri ortaya atılarak hem kullanıcı perspektifinden, hem yatırımcı perspektifinden, hem de teknik uygulanabilirlik açısından değerlendirilerek olası fikirler sayı olarak ikiye indirgenmiştir. Bu iki fikrin aynı perspektiflerden karşılaştırılması ve gelecek toplantıda nihai fikrin netleştirilmesi üzerinde sözleşilmiştir. Ayrıca proje yönetimi süreci boyunca sprint board olarak Trello kullanma kararı alınmıştır. Fikrin netleşmesinden itibaren görevlerin saptanarak sprint board üzerinden takvimlendirilmesi ve ilgili üyelere atanması kararı alınmıştır. Gelecek toplantının 29.06.2024 tarihinde yapılması uygun görülmüş ve doğrultuda ikinci toplantı planlanmıştır.
 
 29.06.2024 (Üçüncü çevrimiçi toplantı)
 
