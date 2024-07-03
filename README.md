@@ -31,7 +31,7 @@ Bir sonraki toplanatının 2.07.2024 tarihinde yapılması uygun görülmüş ve
 
 04.07.2024 tarihli beşinci toplantıda netleşen uygulama fikrinin ürünleştirilmesine yönelik temel kapsam özetle aşağıdaki gibidir:
 
-Ürün adı:
+"Ürün adı:
 "XXXXXX"
 
 Ürün Özet Açıklaması:
@@ -48,4 +48,6 @@ Danışman açısından: Ürün, avukatlar açısından reklam verme yasağını
 
 Ürün Hedef Kitlesi:
 Hukuki danışmanlık almak isteyen ve aktif bir şekilde mobil uygulama kullanan, inetnet alışverişi ve çevrimiçi ödeme yapmakta olan 18-50 yaş arası tüm insanlar.
-Genç veya stajyer avukatlar, internet üzerinden çevrimiçi faaliyet göstermek isteyen deneyimli ve teknolojiyi aktif kullanan 30-50 yaş arası bağımsız avukatlar.
+Genç veya stajyer avukatlar, internet üzerinden çevrimiçi faaliyet göstermek isteyen deneyimli ve teknolojiyi aktif kullanan 30-50 yaş arası bağımsız avukatlar."
+
+Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve gelecek toplantının 05.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda altıncı toplantı planlanmıştır.
