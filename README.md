@@ -14,7 +14,7 @@ Müberra Sinem - Developer
 
 27.06.2024 (İkinci çevrimiçi toplantı)
 
-27.06.2024 tarihli ikinci çevrimiçi toplantıda grup üyelerinin not ettiği mobil uygulama fikirleri ortaya atılarak hem kullanıcı perspektifinden, hem yatırımcı perspektifinden, hem de teknik uygulanabilirlik açısından değerlendirilerek olası fikirler sayı olarak ikiye indirgenmiştir. Bu iki fikrin aynı perspektiflerden karşılaştırılması ve gelecek toplantıda nihai fikrin netleştirilmesi üzerinde sözleşilmiştir. Ayrıca proje yönetimi süreci boyunca sprint board olarak Trello kullanma kararı alınmıştır. Fikrin netleşmesinden itibaren görevlerin saptanarak sprint board üzerinden takvimlendirilmesi ve ilgili üyelere atanması kararı alınmıştır. Gelecek toplantının 29.06.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda ikinci toplantı planlanmıştır.
+27.06.2024 tarihli ikinci çevrimiçi toplantıda grup üyelerinin not ettiği mobil uygulama fikirleri ortaya atılarak hem kullanıcı perspektifinden, hem yatırımcı perspektifinden, hem de teknik uygulanabilirlik açısından değerlendirilerek olası fikirler sayı olarak ikiye indirgenmiştir. Bu iki fikrin aynı perspektiflerden karşılaştırılması ve gelecek toplantıda nihai fikrin netleştirilmesi üzerinde sözleşilmiştir. Ayrıca proje yönetimi süreci boyunca sprint board olarak Trello kullanma kararı alınmıştır. Fikrin netleşmesinden itibaren görevlerin saptanarak sprint board üzerinden takvimlendirilmesi ve ilgili üyelere atanması kararı alınmıştır. Gelecek toplantının 29.06.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda üçüncü toplantı planlanmıştır.
 
 29.06.2024 (Üçüncü çevrimiçi toplantı)
 
@@ -25,7 +25,7 @@ Bir sonraki toplanatının 2.07.2024 tarihinde yapılması uygun görülmüş ve
 
 02.07.2024 (Dördüncü çevrimiçi toplantı)
 
-02.07.2024 tarihli üçüncü çevrimiçi toplantıda, üzerinde karar kılınmış olan fikrin kapsamı konuşulmuştur. Ve temel çerçeve itibarıyla bir kapsam belirlenmiştir. Ayrıca uygulamanın ürünleştirilmesine yönelik çalışmalar planlanmıştır. Ürünün adına yönelik fikirlerin bulunarak bir sonraki toplantıda netleştirilmesi üzerinde karar kılınmıştır. Gelecek toplantının 04.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda ikinci toplantı planlanmıştır.
+02.07.2024 tarihli üçüncü çevrimiçi toplantıda, üzerinde karar kılınmış olan fikrin kapsamı konuşulmuştur. Ve temel çerçeve itibarıyla bir kapsam belirlenmiştir. Ayrıca uygulamanın ürünleştirilmesine yönelik çalışmalar planlanmıştır. Ürünün adına yönelik fikirlerin bulunarak bir sonraki toplantıda netleştirilmesi üzerinde karar kılınmıştır. Gelecek toplantının 04.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda beşinci toplantı planlanmıştır.
 
 04.07.2024 (Beşinci çevrimiçi toplantı)
 
