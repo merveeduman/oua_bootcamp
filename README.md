@@ -19,8 +19,9 @@ Müberra Sinem - Developer
 29.06.2024 (Üçüncü çevrimiçi toplantı)
 
 29.06.2024 tarihli üçüncü çevrimiçi toplantıda eldeki mevcut iki fikirden hukuki danışmanlık app'i daha uygun görülerek üzerinde karar kılınmıştır. Uygyulamanın kapsamının ve fonksiyonlarının netleşmesi üzerine düşünceler geliştirmek ve bir sonraki toplantıda netleşmeyi sağlamak üzere toplantı sonlandırılmıştır. Ayrıca bu toplantıda UI design için Figma kullanılması doğrultusunda karar alınmıştır ve yapay zeka api'si olarak Gemini kullanılması doğrultusunda karar alınmıştır. Toplantı sonrasında İlk sprint için görevler ve tarihleri belirlenmiş, görev atamaları yapılmıştır.
-(Buraya Trello Screenshot gelecek İbrahim katılım sağladıktan sonra)
+
 Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp
+
 Bir sonraki toplanatının 2.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda dördüncü toplantı planlanmıştır.
 
 02.07.2024 (Dördüncü çevrimiçi toplantı)
@@ -32,10 +33,10 @@ Bir sonraki toplanatının 2.07.2024 tarihinde yapılması uygun görülmüş ve
 04.07.2024 tarihli beşinci toplantıda netleşen uygulama fikrinin ürünleştirilmesine yönelik temel kapsam özetle aşağıdaki gibidir:
 
 "Ürün adı:
-"XXXXXX"
+Avukatım
 
 Ürün Özet Açıklaması:
-XXXXX, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hukuki olayları ücretsiz ve ücretli olarak danışabilecekleri hukuki danışmanlık ofisidir.
+Avukatım, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hukuki olayları ücretsiz ve ücretli olarak danışabilecekleri hukuki danışmanlık ofisidir.
 
 Ürün Fonksiyonları:
 Basit hukuki olaylar hakkında temel danışma hizmeti, temel hukuki bilgilendirmeler, genel kültür ve hukuki bilinçlenme ihtiyaçları için yapay zeka botumuz ücretsiz bir şekilde kullanılabilir. Bu özellik üyelik oluşturmadan da kullanılabilir fakat bu özellik aynı ip bağlantısı üzerinden günde 10 soru ile sınırlıdır. Yapay zeka botuna sınırsız soru sormak için üyelik oluşturmak yeterlidir.
@@ -51,3 +52,10 @@ Hukuki danışmanlık almak isteyen ve aktif bir şekilde mobil uygulama kullana
 Genç veya stajyer avukatlar, internet üzerinden çevrimiçi faaliyet göstermek isteyen deneyimli ve teknolojiyi aktif kullanan 30-50 yaş arası bağımsız avukatlar."
 
 Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve gelecek toplantının 05.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda altıncı toplantı planlanmıştır.
+
+05.07.2024 (Altıncı çevrimiçi toplantı)
+05.07.2024 tarihli altıncı çevrimiçi toplantıda Merve'nin hazırlamış olduğu uygulamanın tanıtım ekranları ve İlker'in hazırladığı İş Modeli Kanvası ve kullanıcı personaları incelenmiş ve fikir birliği ile uygun bulunmuştur. Çalışmalar aşağıdaki gibidir:
+
+
+
+Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan tüm görevlerin üyeler tarafından tamamlandığına dair kontrol sağlanmıştır. Sıradaki toplantının 8 Temmuz'da yapılacak olan 2.Sprint buluşmasından sonra 9 Temmuz 2024 tarihinde yapılması uygun görülerek ilk sprint süreci tamamlanmıştır.
