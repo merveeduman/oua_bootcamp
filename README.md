@@ -35,7 +35,7 @@ Bir sonraki toplanatının 2.07.2024 tarihinde yapılması uygun görülmüş ve
 
 04.07.2024 tarihli beşinci toplantıda netleşen uygulama fikrinin ürünleştirilmesine yönelik temel kapsam özetle aşağıdaki gibidir:
 
-#### "Ürün adı:
+#### Ürün adı:
 Avukatım
 
 #### Ürün Özet Açıklaması:
