@@ -35,22 +35,22 @@ Bir sonraki toplanatının 2.07.2024 tarihinde yapılması uygun görülmüş ve
 
 04.07.2024 tarihli beşinci toplantıda netleşen uygulama fikrinin ürünleştirilmesine yönelik temel kapsam özetle aşağıdaki gibidir:
 
-## "Ürün adı:
+#### "Ürün adı:
 Avukatım
 
-## Ürün Özet Açıklaması:
+#### Ürün Özet Açıklaması:
 Avukatım, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hukuki olayları ücretsiz ve ücretli olarak danışabilecekleri hukuki danışmanlık ofisidir.
 
-## Ürün Fonksiyonları:
+#### Ürün Fonksiyonları:
 Basit hukuki olaylar hakkında temel danışma hizmeti, temel hukuki bilgilendirmeler, genel kültür ve hukuki bilinçlenme ihtiyaçları için yapay zeka botumuz ücretsiz bir şekilde kullanılabilir. Bu özellik üyelik oluşturmadan da kullanılabilir fakat bu özellik aynı ip bağlantısı üzerinden günde 10 soru ile sınırlıdır. Yapay zeka botuna sınırsız soru sormak için üyelik oluşturmak yeterlidir.
 Orta seviye danışmanlıklar için danışmak istenilen alan (medeni hukuk, ticaret hukuku vb.) seçilerek, stajyer seviyesinde olan avukatların profilleri incelenerek seçilen avukat ile çevrimiçi görüntülü veya sesli görüşme sağlanabilir. 
 İleri düzey danışmanlıklar için danışmak istenilen alan (medeni hukuk, ticaret hukuku vb.) seçilerek, ileri seviye ve alanında uzman olan avukatların profilleri incelenerek seçilen avukat ile çevrimiçi görüntülü veya sesli görüşme sağlanabilir.
 
-## Ürünün Çözüm Olduğu Sorunlar: 
+#### Ürünün Çözüm Olduğu Sorunlar: 
 Danışan açısından: Avukatlara geleneksel yollarla ve ağızdan ağıza sorarak ulaşma sorununa (avukatların reklam yapmalarının yasak olması nedeniyle) çözüm getirmektedir. Ürün, fiyat segmentasyonu, uzmanlık alanı ve deneyime göre ülkenin farklı yerlerinden birçok avukata erişim imkanı sağlamaktadır. Ayrıca avukatlarla tanışmak ve görüşmek için fiziki büroya gitme zorunluluğunu ortadan kaldırır. Ek olarak danışmanlık ücretleri hakkında ortalama bilgiler ve avukatların profillerindeki daha önceki danışan değerlerdirmeleri de referans olarak önemli bir sorunu ortadan kaldırmaktadır. Ödeme konusunda güvence sunmaktadır.
 Danışman açısından: Ürün, avukatlar açısından reklam verme yasağını delmeden çevrimiçi faaliyet gösterebilme imkanı sunmaktadır. Ülkenin farklı yerlerinden danışanlara hizmet verme imkanı sunmaktadır. İstihdam içerisinde yer bulamayan genç işsiz avukatların faaliyet gösterebileceği yeni bir alan sunmaktadır. Ödeme alma konusunda güvence sunmaktadır.
 
-## Ürün Hedef Kitlesi:
+#### Ürün Hedef Kitlesi:
 Hukuki danışmanlık almak isteyen ve aktif bir şekilde mobil uygulama kullanan, inetnet alışverişi ve çevrimiçi ödeme yapmakta olan 18-50 yaş arası tüm insanlar.
 Genç veya stajyer avukatlar, internet üzerinden çevrimiçi faaliyet göstermek isteyen deneyimli ve teknolojiyi aktif kullanan 30-50 yaş arası bağımsız avukatlar."
 
