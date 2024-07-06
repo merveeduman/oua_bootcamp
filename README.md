@@ -67,6 +67,7 @@ Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve 
 
 
 
+![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/e2bea764-1d36-4951-afee-f3ad4242558e)
 
 
 
