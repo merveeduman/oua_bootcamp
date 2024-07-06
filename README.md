@@ -20,7 +20,7 @@ Müberra Sinem - Developer
 
 29.06.2024 tarihli üçüncü çevrimiçi toplantıda eldeki mevcut iki fikirden hukuki danışmanlık app'i daha uygun görülerek üzerinde karar kılınmıştır. Uygyulamanın kapsamının ve fonksiyonlarının netleşmesi üzerine düşünceler geliştirmek ve bir sonraki toplantıda netleşmeyi sağlamak üzere toplantı sonlandırılmıştır. Ayrıca bu toplantıda UI design için Figma kullanılması doğrultusunda karar alınmıştır ve yapay zeka api'si olarak Gemini kullanılması doğrultusunda karar alınmıştır. Toplantı sonrasında İlk sprint için görevler ve tarihleri belirlenmiş, görev atamaları yapılmıştır.
 
-(TRELLO EKRAN GÖRÜNTÜSÜ)
+![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/aa86af70-2a2c-4cbd-ad3b-484ac82545b9)
 
 Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp
 
@@ -58,16 +58,19 @@ Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve 
 05.07.2024 (Altıncı çevrimiçi toplantı)
 05.07.2024 tarihli altıncı çevrimiçi toplantıda Merve'nin hazırlamış olduğu uygulamanın tanıtım ekranları ve İlker'in hazırladığı İş Modeli Kanvası ve kullanıcı personaları incelenmiş ve fikir birliği ile uygun bulunmuştur. Çalışmalar aşağıdaki gibidir:
 
-(DİĞER GÖRÜNTÜLER)
-
-![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/aa86af70-2a2c-4cbd-ad3b-484ac82545b9)
-
 
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/bd68512b-528a-4699-a94d-fb0309d50d72)
 
-
-
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/e2bea764-1d36-4951-afee-f3ad4242558e)
+
+![image](https://github.com/merveeduman/oua_bootcamp/assets/153215629/14522480-e2aa-499d-9342-f51811b9d74d)
+
+![image](https://github.com/merveeduman/oua_bootcamp/assets/153215629/1fd2799f-eac8-4a64-825b-90949d8507c1)
+
+![image](https://github.com/merveeduman/oua_bootcamp/assets/153215629/eaf8cad5-cdc8-49e3-a21b-a589c6d0ce27)
+
+![image](https://github.com/merveeduman/oua_bootcamp/assets/153215629/e505354d-739a-4988-b486-5f89d2147f59)
+
 
 
 
