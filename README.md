@@ -19,7 +19,7 @@ Müberra Sinem - Developer
 29.06.2024 (Üçüncü çevrimiçi toplantı)
 
 29.06.2024 tarihli üçüncü çevrimiçi toplantıda eldeki mevcut iki fikirden hukuki danışmanlık app'i daha uygun görülerek üzerinde karar kılınmıştır. Uygyulamanın kapsamının ve fonksiyonlarının netleşmesi üzerine düşünceler geliştirmek ve bir sonraki toplantıda netleşmeyi sağlamak üzere toplantı sonlandırılmıştır. Ayrıca bu toplantıda UI design için Figma kullanılması doğrultusunda karar alınmıştır ve yapay zeka api'si olarak Gemini kullanılması doğrultusunda karar alınmıştır. Toplantı sonrasında İlk sprint için görevler ve tarihleri belirlenmiş, görev atamaları yapılmıştır.
-Not: Trello ekran görüntüsü 06.07.2024 tarihinde yapılan son rapor düzenlemeri esnasında alınarak eklenmiştir.
+Not: Trello ekran görüntüsü 06.07.2024 tarihinde yapılan son rapor düzenlemeri esnasında alınarak eklenmiştir.  
 
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/aa86af70-2a2c-4cbd-ad3b-484ac82545b9)
 
