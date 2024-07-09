@@ -65,22 +65,19 @@ Danışman açısından: Ürün, avukatlar açısından reklam verme yasağını
 
 ### Ürün Hedef Kitlesi:
 Hukuki danışmanlık almak isteyen ve aktif bir şekilde mobil uygulama kullanan, internet alışverişi ve çevrimiçi ödeme yapmakta olan 18-50 yaş arası tüm insanlar.
-Genç veya stajyer avukatlar, internet üzerinden çevrimiçi faaliyet göstermek isteyen deneyimli ve teknolojiyi aktif kullanan 30-50 yaş arası bağımsız avukatlar."
-
+Genç veya stajyer avukatlar, internet üzerinden çevrimiçi faaliyet göstermek isteyen deneyimli ve teknolojiyi aktif kullanan 30-50 yaş arası bağımsız avukatlar.
 Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve gelecek toplantının 05.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda altıncı toplantı planlanmıştır.
 ## • İLK SPRİNT ÖNCESİ SON TOPLANTI
 ### 05.07.2024 (Altıncı çevrimiçi toplantı)
 05.07.2024 tarihli altıncı çevrimiçi toplantıda Merve'nin hazırlamış olduğu uygulamanın tanıtım ekranları ve İlker'in hazırladığı İş Modeli Kanvası ve kullanıcı personaları incelenmiş ve fikir birliği ile uygun bulunmuştur. 
 Çalışmalar aşağıdaki gibidir:  
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/bd68512b-528a-4699-a94d-fb0309d50d72)
-
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/e2bea764-1d36-4951-afee-f3ad4242558e)
-##### • Ürün Durumu: Ekran Görüntüleri:
+#### • Ürün Durumu: Ekran Görüntüleri:
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/153215629/a65c59fd-13f8-4333-8336-0909de1c233a)
-
 Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan tüm görevlerin üyeler tarafından tamamlandığına dair kontrol sağlanmıştır. Sıradaki toplantının 8 Temmuz'da yapılacak olan 2.Sprint buluşmasından sonra 9 Temmuz 2024 tarihinde yapılması uygun görülerek ilk sprint süreci tamamlanmıştır.
 
 ## •  Sprint Review :
 • Tanıtım sayfa tasarımlarının ilgi çekici ve kullanıcı dostu arayüze sahip olduguna ve diğer sayfaların da bu tarzda olmasına karar verilmiştir.
-• Sprint Review katılımcıları: Merve Duman, Müberra Sinem ,İlker Nohutcu
+• Sprint Review katılımcıları:Merve Duman, Müberra Sinem,İlker Nohutcu
 
