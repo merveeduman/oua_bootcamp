@@ -7,6 +7,17 @@ Müberra Sinem - Developer
 İbrahim Türker- Developer  
  
 ## 1.Sprint Süreç ve Kararlar
+## • Sprint Notları:
+
+## • Sprint İçinde Tamamlanması Tahmin Edilen Puan 
+ 10
+## • Puan Tamamlama Mantığı: 
+(Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.)
+Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+## • Daily Scrum:
+Whatsapp üzerinden görüşmeler sağlanmıştır.Genel adında ana bir grup oluşturulmuştur.
+
+
 
 ### 26.06.2024 (İlk çevrimiçi toplantı)
 
@@ -51,7 +62,7 @@ Danışan açısından: Avukatlara geleneksel yollarla ve ağızdan ağıza sora
 Danışman açısından: Ürün, avukatlar açısından reklam verme yasağını delmeden çevrimiçi faaliyet gösterebilme imkanı sunmaktadır. Ülkenin farklı yerlerinden danışanlara hizmet verme imkanı sunmaktadır. İstihdam içerisinde yer bulamayan genç işsiz avukatların faaliyet gösterebileceği yeni bir alan sunmaktadır. Ödeme alma konusunda güvence sunmaktadır.
 
 #### Ürün Hedef Kitlesi:
-Hukuki danışmanlık almak isteyen ve aktif bir şekilde mobil uygulama kullanan, inetnet alışverişi ve çevrimiçi ödeme yapmakta olan 18-50 yaş arası tüm insanlar.
+Hukuki danışmanlık almak isteyen ve aktif bir şekilde mobil uygulama kullanan, internet alışverişi ve çevrimiçi ödeme yapmakta olan 18-50 yaş arası tüm insanlar.
 Genç veya stajyer avukatlar, internet üzerinden çevrimiçi faaliyet göstermek isteyen deneyimli ve teknolojiyi aktif kullanan 30-50 yaş arası bağımsız avukatlar."
 
 Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve gelecek toplantının 05.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda altıncı toplantı planlanmıştır.
@@ -66,8 +77,9 @@ Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve 
 
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/153215629/a65c59fd-13f8-4333-8336-0909de1c233a)
 
-
-
-
-
 Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan tüm görevlerin üyeler tarafından tamamlandığına dair kontrol sağlanmıştır. Sıradaki toplantının 8 Temmuz'da yapılacak olan 2.Sprint buluşmasından sonra 9 Temmuz 2024 tarihinde yapılması uygun görülerek ilk sprint süreci tamamlanmıştır.
+
+## •  Sprint Review :
+### • Tanıtım sayfa tasarımlarının ilgi çekici ve kullanıcı dostu arayüze sahip olduguna ve diğer sayfaların da bu tarzda olmasına karar verilmiştir.
+### • Sprint Review katılımcıları: Merve Duman, Müberra Sinem ,İlker Nohutcu
+
