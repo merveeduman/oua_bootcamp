@@ -86,5 +86,6 @@ Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan t
 ## •  Sprint Retrospective :
 Tarih: 06.07.2024
 Katılımcılar: Merve, Müberra, İlker, İbrahim
-
+Toplantının Genel Amacı:
+Geçtiğimiz sprintin değerlendirilmesi, başarılı olan alanların belirlenmesi ve iyileştirme gerektiren konuların tespit edilmesi. Gelecek sprinte dair aksiyon hedefleri.
 
