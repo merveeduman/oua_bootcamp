@@ -100,6 +100,7 @@ Ne Yanlış Gitti?
 İyileştirme Fırsatları:  
 •	Kapsam İyileştirmeleri: Uygulama kapsamının en ince detayına kadar erken belirlenmesine bağlı olarak yalın bir süreç yürütüp zaman kaybını minimuma indirmek.  
 •	Ek Performans: 2. Sprintte performans hedeflerimizi olağanın üzerinde tutarak 3. Sprint sürecinde yaşanabilecek aksilikleri ve planlamada hesaplanmayan sorunlara daha çok vakit ayırabilme imkanı yaratmak.  
+  
 Aksiyon Maddeleri:  
 1.	Kapsam Netleştirme: Bir sonraki sprintte görevlerin daha detaylı ve gerçekçi bir şekilde planlanması için kodlama pratiğine girmeden önce uygulama kapsamının ve fonksiyonel detayların tamamen netleşmiş  olması üzerine çalışma yapılması.  
 2.	Logo Tasarımı: Uygulamanın logosunun 2. Sprintte yapılması.  
