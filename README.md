@@ -47,6 +47,7 @@ Bir sonraki toplanatının 2.07.2024 tarihinde yapılması uygun görülmüş ve
 
 04.07.2024 tarihli beşinci toplantıda netleşen uygulama fikrinin ürünleştirilmesine yönelik temel kapsam özetle aşağıdaki gibidir:
 
+## • ÜRÜN BİLGİLERİ
 ### Ürün adı:
 Avukatım
 
@@ -67,7 +68,7 @@ Hukuki danışmanlık almak isteyen ve aktif bir şekilde mobil uygulama kullana
 Genç veya stajyer avukatlar, internet üzerinden çevrimiçi faaliyet göstermek isteyen deneyimli ve teknolojiyi aktif kullanan 30-50 yaş arası bağımsız avukatlar."
 
 Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve gelecek toplantının 05.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda altıncı toplantı planlanmıştır.
-
+## İLK SPRİNT ÖNCESİ SON TOPLANTI
 ### 05.07.2024 (Altıncı çevrimiçi toplantı)
 05.07.2024 tarihli altıncı çevrimiçi toplantıda Merve'nin hazırlamış olduğu uygulamanın tanıtım ekranları ve İlker'in hazırladığı İş Modeli Kanvası ve kullanıcı personaları incelenmiş ve fikir birliği ile uygun bulunmuştur. 
 Çalışmalar aşağıdaki gibidir:  
