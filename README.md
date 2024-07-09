@@ -8,9 +8,9 @@ Müberra Sinem - Developer
  
 ## 1.Sprint Süreç ve Kararlar
 ## • Sprint Notları:
-Proje yönetimi ve görev dağılımının ayarlanması için Trello kullanılmasına karar verilmiştir.
-UI tasarımı için birkaç sayfadan bilgiler edilmiştir.
-Veritabanı yönetimi için Firebase kullanılmasına karar verilmiştir.
+Proje yönetimi ve görev dağılımının ayarlanması için Trello kullanılmasına karar verilmiştir.  
+UI tasarımı için birkaç sayfadan bilgiler edilmiştir.  
+Veritabanı yönetimi için Firebase kullanılmasına karar verilmiştir.  
 
 ## • Sprint İçinde Tamamlanması Tahmin Edilen Puan 
  10
