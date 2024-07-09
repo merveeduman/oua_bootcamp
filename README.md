@@ -84,24 +84,8 @@ Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan t
 • Tanıtım sayfa tasarımlarının ilgi çekici ve kullanıcı dostu arayüze sahip olduguna ve diğer sayfaların da bu tarzda olmasına karar verilmiştir.  
 • Sprint Review katılımcıları:Merve Duman, Müberra Sinem,İlker Nohutcu
 ## •  Sprint Retrospective :
-1.	Sprint Retrospektif Toplantı Özeti
 Tarih: 06 Temmuz 2024
 Katılımcılar: Merve, Müberra, İlker, İbrahim
-Toplantının Genel Amacı:
-Geçtiğimiz sprintin değerlendirilmesi, başarılı olan alanların belirlenmesi ve iyileştirme gerektiren konuların tespit edilmesi. Gelecek sprinte dair aksiyon hedefleri.
-Ne İyi Gitti?
-•	Proje Yönetimi: Sprint planlaması ve görev dağılımı başarılı bir şekilde gerçekleştirildi.
-•	Ekip İletişimi: Ekip üyeleri arasında açık ve etkili iletişim sağlandı, günlük toplantıların başlıkları önceden belirlenerek verimli geçmesi sağlandı.
-Ne Yanlış Gitti?
-•	Süreç Sorunları: Ürün fikrini netleştirme konusunda yavaş kalındı.
-•	Teknik Takvim: Fikir konusunda yavaş ilerlenmesi sonucunda 2. Sprint kodlama görevlerinde yoğunluk oluştu.
-İyileştirme Fırsatları:
-•	Kapsam İyileştirmeleri: Uygulama kapsamının en ince detayına kadar erken belirlenmesine bağlı olarak yalın bir süreç yürütüp zaman kaybını minimuma indirmek.
-•	Ek Performans: 2. Sprintte performans hedeflerimizi olağanın üzerinde tutarak 3. Sprint sürecinde yaşanabilecek aksilikleri ve planlamada hesaplanmayan sorunlara daha çok vakit ayırabilme imkanı yaratmak.
-Aksiyon Maddeleri:
-1.	Kapsam Netleştirme: Bir sonraki sprintte görevlerin daha detaylı ve gerçekçi bir şekilde planlanması için kodlama pratiğine girmeden önce uygulama kapsamının ve fonksiyonel detayların tamamen netleşmiş olması üzerine çalışma yapılması.
-2.	Logo Tasarımı: Uygulamanın logosunun 2. Sprintte yapılması.
-3.	Kodlama: Uygulamanın kodlama işlerinin 2. Sprintte tamamlanması
-Bir sonraki sprint için alınan aksiyon kayda geçmiştir.
+
 
 
