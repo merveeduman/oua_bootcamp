@@ -38,7 +38,7 @@ Not: Trello ekran görüntüsü 06.07.2024 tarihinde yapılan son rapor düzenle
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/aa86af70-2a2c-4cbd-ad3b-484ac82545b9)
 
 ## • Product Backlog URL
-Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp
+• Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp
 
 Bir sonraki toplanatının 2.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda dördüncü toplantı planlanmıştır.
 
