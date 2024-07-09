@@ -105,5 +105,5 @@ Aksiyon Maddeleri:
 1.	Kapsam Netleştirme: Bir sonraki sprintte görevlerin daha detaylı ve gerçekçi bir şekilde planlanması için kodlama pratiğine girmeden önce uygulama kapsamının ve fonksiyonel detayların tamamen netleşmiş  olması üzerine çalışma yapılması.  
 2.	Logo Tasarımı: Uygulamanın logosunun 2. Sprintte yapılması.  
 3.	Kodlama: Uygulamanın kodlama işlerinin 2. Sprintte tamamlanması  
-olmak üzere bir sonraki sprint için alınan aksiyon kayda geçmiştir.  
+olmak üzere bir sonraki sprint için alınan aksiyon kararları kayda geçmiştir.  
 
