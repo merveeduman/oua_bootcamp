@@ -82,6 +82,6 @@ Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve 
 Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan tüm görevlerin üyeler tarafından tamamlandığına dair kontrol sağlanmıştır. Sıradaki toplantının 8 Temmuz'da yapılacak olan 2.Sprint buluşmasından sonra 9 Temmuz 2024 tarihinde yapılması uygun görülerek ilk sprint süreci tamamlanmıştır.
 
 ## •  Sprint Review :
-• Tanıtım sayfa tasarımlarının ilgi çekici ve kullanıcı dostu arayüze sahip olduguna ve diğer sayfaların da bu tarzda olmasına karar verilmiştir.
+• Tanıtım sayfa tasarımlarının ilgi çekici ve kullanıcı dostu arayüze sahip olduguna ve diğer sayfaların da bu tarzda olmasına karar verilmiştir.  
 • Sprint Review katılımcıları:Merve Duman, Müberra Sinem,İlker Nohutcu
-
+## •  Sprint Retrospective :
