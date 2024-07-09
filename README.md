@@ -70,6 +70,7 @@ Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve 
 ### 05.07.2024 (Altıncı çevrimiçi toplantı)
 05.07.2024 tarihli altıncı çevrimiçi toplantıda Merve'nin hazırlamış olduğu uygulamanın tanıtım ekranları ve İlker'in hazırladığı İş Modeli Kanvası ve kullanıcı personaları incelenmiş ve fikir birliği ile uygun bulunmuştur. Çalışmalar aşağıdaki gibidir:  
 
+##### • Ürün Durumu: Ekran Görüntüleri:
 
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/bd68512b-528a-4699-a94d-fb0309d50d72)
 
@@ -80,6 +81,6 @@ Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve 
 Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan tüm görevlerin üyeler tarafından tamamlandığına dair kontrol sağlanmıştır. Sıradaki toplantının 8 Temmuz'da yapılacak olan 2.Sprint buluşmasından sonra 9 Temmuz 2024 tarihinde yapılması uygun görülerek ilk sprint süreci tamamlanmıştır.
 
 ## •  Sprint Review :
-### • Tanıtım sayfa tasarımlarının ilgi çekici ve kullanıcı dostu arayüze sahip olduguna ve diğer sayfaların da bu tarzda olmasına karar verilmiştir.
-### • Sprint Review katılımcıları: Merve Duman, Müberra Sinem ,İlker Nohutcu
+ • Tanıtım sayfa tasarımlarının ilgi çekici ve kullanıcı dostu arayüze sahip olduguna ve diğer sayfaların da bu tarzda olmasına karar verilmiştir.
+ • Sprint Review katılımcıları: Merve Duman, Müberra Sinem ,İlker Nohutcu
 
