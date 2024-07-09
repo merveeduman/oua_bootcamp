@@ -35,12 +35,11 @@ Whatsapp üzerinden görüşmeler sağlanmıştır.Genel adında ana bir grup ol
 29.06.2024 tarihli üçüncü çevrimiçi toplantıda eldeki mevcut iki fikirden hukuki danışmanlık app'i daha uygun görülerek üzerinde karar kılınmıştır. Uygyulamanın kapsamının ve fonksiyonlarının netleşmesi üzerine düşünceler geliştirmek ve bir sonraki toplantıda netleşmeyi sağlamak üzere toplantı sonlandırılmıştır. Ayrıca bu toplantıda UI design için Figma kullanılması doğrultusunda karar alınmıştır ve yapay zeka api'si olarak Gemini kullanılması doğrultusunda karar alınmıştır. Toplantı sonrasında İlk sprint için görevler ve tarihleri belirlenmiş, görev atamaları yapılmıştır.
 Not: Trello ekran görüntüsü 06.07.2024 tarihinde yapılan son rapor düzenlemeri esnasında alınarak eklenmiştir. 
 
+### • Sprint Board Screenshotları: 
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/aa86af70-2a2c-4cbd-ad3b-484ac82545b9)
 
 ## • Product Backlog URL
 • Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp
-
-Bir sonraki toplanatının 2.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda dördüncü toplantı planlanmıştır.
 
 ### 02.07.2024 (Dördüncü çevrimiçi toplantı)
 
