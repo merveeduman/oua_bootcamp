@@ -34,7 +34,7 @@ Not: Trello ekran görüntüsü 06.07.2024 tarihinde yapılan son rapor düzenle
 
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/aa86af70-2a2c-4cbd-ad3b-484ac82545b9)
 
-## Product Backlog URL
+## • Product Backlog URL
 Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp
 
 Bir sonraki toplanatının 2.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda dördüncü toplantı planlanmıştır.
@@ -68,7 +68,7 @@ Hukuki danışmanlık almak isteyen ve aktif bir şekilde mobil uygulama kullana
 Genç veya stajyer avukatlar, internet üzerinden çevrimiçi faaliyet göstermek isteyen deneyimli ve teknolojiyi aktif kullanan 30-50 yaş arası bağımsız avukatlar."
 
 Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve gelecek toplantının 05.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda altıncı toplantı planlanmıştır.
-## İLK SPRİNT ÖNCESİ SON TOPLANTI
+## • İLK SPRİNT ÖNCESİ SON TOPLANTI
 ### 05.07.2024 (Altıncı çevrimiçi toplantı)
 05.07.2024 tarihli altıncı çevrimiçi toplantıda Merve'nin hazırlamış olduğu uygulamanın tanıtım ekranları ve İlker'in hazırladığı İş Modeli Kanvası ve kullanıcı personaları incelenmiş ve fikir birliği ile uygun bulunmuştur. 
 Çalışmalar aşağıdaki gibidir:  
