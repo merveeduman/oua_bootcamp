@@ -74,7 +74,7 @@ Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve 
 ### 05.07.2024 (Altıncı çevrimiçi toplantı)
 05.07.2024 tarihli altıncı çevrimiçi toplantıda Merve'nin hazırlamış olduğu uygulamanın tanıtım ekranları ve İlker'in hazırladığı İş Modeli Kanvası ve kullanıcı personaları incelenmiş ve fikir birliği ile uygun bulunmuştur. 
 Çalışmalar aşağıdaki gibidir:
-#### • Ürün Hakkında Bilgilendirici Aıklamalar ve Ürün Yorumları: Ekran Görüntüleri:
+#### • Ürün Hakkında Bilgilendirici Açıklamalar ve Ürün Yorumları: Ekran Görüntüleri:
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/bd68512b-528a-4699-a94d-fb0309d50d72)
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/e2bea764-1d36-4951-afee-f3ad4242558e)
 #### • Ürün Durumu: Ekran Görüntüleri:
