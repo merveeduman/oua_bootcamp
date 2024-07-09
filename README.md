@@ -84,8 +84,7 @@ Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan t
 • Tanıtım sayfa tasarımlarının ilgi çekici ve kullanıcı dostu arayüze sahip olduguna ve diğer sayfaların da bu tarzda olmasına karar verilmiştir.  
 • Sprint Review katılımcıları:Merve Duman, Müberra Sinem,İlker Nohutcu
 ## •  Sprint Retrospective :
-Tarih: 06 Temmuz 2024
+Tarih: 06.07.2024
 Katılımcılar: Merve, Müberra, İlker, İbrahim
-
 
 
