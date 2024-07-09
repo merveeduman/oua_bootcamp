@@ -18,7 +18,7 @@ Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bi
 Whatsapp üzerinden görüşmeler sağlanmıştır.Genel adında ana bir grup oluşturulmuştur.
 ![WhatsApp Image 2024-07-09 at 11 10 57](https://github.com/merveeduman/oua_bootcamp/assets/139700200/5ff7e73e-0371-4923-ae8e-e2b9c29e0620)
 
-
+## • TOPLANTILAR VE KARAR VERME AŞAMALARI
 ### 26.06.2024 (İlk çevrimiçi toplantı)
 
 26.06.2024 tarihinde ilk çevrimiçi toplantı yapılmıştır. Toplantıda grup üyeleri kendi arasında tanışmıştır ve ardından yetenek ve rolleri belirlemiştir. Üyelerin yetenekleri doğrultusunda kararlarştırılmış olan roller yukarıda yer aldığı gibidir. Toplantıyı sonlandırırken grubun yetenekleri doğrultusunda uygulama fikirleri geliştirmek, araştırmak ve bunları gelecek toplantıda değerlendirmek üzere karar alınmıştır. Gelecek toplantının 27.06.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda ikinci toplantı planlanmıştır. Yetenekler doğrultusunda kodlama işlemlerinin Merve ve Müberra tarafından yapılmasına destek gereken kısımlarda da İbrahim'in destek vermesine, raporlama, ui/ux design, sprint board düzenleme işlemlerinin İlker tarafından yapılmasına ve destek gereken kısımlarda İbrahim'in destek vermesine karar verilmiştir.
