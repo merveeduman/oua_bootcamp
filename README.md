@@ -5,7 +5,11 @@
 Merve Duman - Scrum Master  
 Müberra Sinem - Developer  
 İbrahim Türker- Developer  
- 
+
+ <details>
+  <summary>1.Sprint</summary>
+  <ol>  
+     
 ## 1.Sprint Süreç ve Kararlar
 ## • Sprint Notları:
 -Proje yönetimi ve görev dağılımının ayarlanması için Trello kullanılmasına karar verilmiştir.  
@@ -107,4 +111,5 @@ Aksiyon Maddeleri:
 3.	Kodlama: Uygulamanın kodlama işlerinin 2. Sprintte tamamlanması
   
 olmak üzere bir sonraki sprint için alınan aksiyon kararları kayda geçmiştir.  
-
+</ol>
+</details>
