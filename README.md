@@ -113,3 +113,44 @@ Aksiyon Maddeleri:
 olmak üzere bir sonraki sprint için alınan aksiyon kararları kayda geçmiştir.  
 </ol>
 </details>
+
+<details>
+  <summary>2.Sprint</summary>
+  <ol>  
+     
+## 2.Sprint Süreç ve Kararlar
+## • Sprint Notları:
+-Bu sprint sürecinde uygulamanın logosu tasarlanmış ve ilgili olarak uygulamanın tema renginin mat yeşil olmasına karar verilmiştir.  
+-Uygulamanın ilk aşama için sadece Türkçe dilinde olması üzerinde karar kılınmıştır.   
+
+## • Sprint İçinde Tamamlanması Tahmin Edilen Puan 
+ 10
+## • Puan Tamamlama Mantığı: 
+(Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.)
+Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için bitirilmesi istenilen puan sayısı 16 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+## • Daily Scrum:
+İlk sprint sürecinde açılmış olan Whatsapp grubu üzerinden görüşmeler sağlanmaya devam edilmiş ve grup üyelerinin ortak takvim uygunluklarına yönelik ilk toplantı planlanmıştır.
+
+
+## • TOPLANTILAR VE KARAR VERME AŞAMALARI
+### 10.07.2024 (Yedinci çevrimiçi toplantı)
+
+10.07.2024 tarihinde yedinci çevrimiçi toplantı yapılmıştır. Toplantıda grup üyeleri ikinci sprint için genel bir takvim planlaması yapılmıştır. Üyelerin kişisel yoğunluklarının ve işlerinin rahatlaması amacıyla toplantı tarihinden itibaren 5 günlük bir görev izni tüm üyelere tanınarak 2.sprint için yapılacak olan tüm görev atamalarının en erken 15.07.2024 tarihi başlangıçlı olması kararlaştırılmıştır. Atanacak görevlerin belirlenmesi adına gelecek toplantının 13.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda sekizinci toplantı planlanmıştır.
+
+### 13.07.2024 (Sekizinci çevrimiçi toplantı)
+
+13.07.2024 tarihli sekizinci çevrimiçi toplantıda, üyelerin yetenek ve yetkinlikleri doğrultusunda 2.sprint görevlerinin dağılımı yapılmıştır. Yapay zeka geliştirme ve api entegrasyonu, görüntülü görüşme için api entegrasyonu görevlerinin Müberra, Ödeme ekranının oluşturulması, görsel prototip oluştuma görevlerinin Merve, Blog sayfasının (avukatların akademik veya akademik olmayan yazılarının paylaşılacağı sayfa) oluşturulması görevinin İbrahim, Logo tasarımı, reklam tasarımlarının hazırlanması ve sprint rapor kayıtlarının tutularak düzenlenmesi görevlerinin İlker tarafından gerçekleştirilmesi uygun görülmüştür. Ayrıca frontend ve backend geliştirme görevlerinin Müberra ve Merve tarafından, UI/UX tasarımlarının tüm grup üyeleri tarafından ortak çalışmayla yapılmasına karar verilmiştir. Bu doğrultuda gelecek toplantının 15.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda dokuzuncu toplantı planlanmıştır.
+
+### 15.07.2024 (Dokuzuncu çevrimiçi toplantı)
+"""""""""""""""""""""""""""  
+15.07.2024 tarihli dokuzuncu çevrimiçi toplantıda 
+Not: Trello ekran görüntüsü 06.07.2024 tarihinde yapılan son rapor düzenlemeri esnasında alınarak eklenmiştir. 
+
+### • Sprint Board Screenshotları: 
+![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/aa86af70-2a2c-4cbd-ad3b-484ac82545b9)
+
+## • Product Backlog URL
+• Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp
+ 
+</ol>
+</details>
