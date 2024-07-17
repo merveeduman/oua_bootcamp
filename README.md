@@ -151,7 +151,15 @@ Not: Trello ekran görüntüsü 15.07.2024 tarihinde alınmış ve rapora eklenm
 ![image](https://github.com/user-attachments/assets/f550910d-34d2-4e93-86e4-79395c23698c)
 
 ## • Product Backlog URL
-• Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp
+• Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp  
+
+### 17.07.2024 (Onuncu çevrimiçi toplantı)
+
+17.07.2024 tarihli onuncu çevrimiçi toplantıda İlker'in oluşturmuş olduğu 4 logo seçeneği grup üyeleri arasında oylamaya sunularak oy birliğiyle logo seçilmiştir. Gelecek toplantının 19.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda onuncu toplantı planlanmıştır.  
+
+Logo tasarımı:  
+
+
  
 </ol>
 </details>
