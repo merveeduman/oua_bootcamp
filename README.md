@@ -139,15 +139,16 @@ Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için
 
 ### 13.07.2024 (Sekizinci çevrimiçi toplantı)
 
-13.07.2024 tarihli sekizinci çevrimiçi toplantıda, üyelerin yetenek ve yetkinlikleri doğrultusunda 2.sprint görevlerinin dağılımı yapılmıştır. Yapay zeka geliştirme ve api entegrasyonu, görüntülü görüşme için api entegrasyonu görevlerinin Müberra, Ödeme ekranının oluşturulması, görsel prototip oluştuma görevlerinin Merve, Blog sayfasının (avukatların akademik veya akademik olmayan yazılarının paylaşılacağı sayfa) oluşturulması görevinin İbrahim, Logo tasarımı, reklam tasarımlarının hazırlanması ve sprint rapor kayıtlarının tutularak düzenlenmesi görevlerinin İlker tarafından gerçekleştirilmesi uygun görülmüştür. Ayrıca frontend ve backend geliştirme görevlerinin Müberra ve Merve tarafından, UI/UX tasarımlarının tüm grup üyeleri tarafından ortak çalışmayla yapılmasına karar verilmiştir. Bu doğrultuda gelecek toplantının 15.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda dokuzuncu toplantı planlanmıştır.
+13.07.2024 tarihli sekizinci çevrimiçi toplantıda, üyelerin yetenek ve yetkinlikleri doğrultusunda 2.sprint görevlerinin dağılımı yapılmıştır. Yapay zeka geliştirme ve api entegrasyonu, görüntülü görüşme için api entegrasyonu görevlerinin Müberra, Ödeme ekranının oluşturulması, görsel prototip oluştuma görevlerinin Merve, Blog sayfasının (avukatların akademik veya akademik olmayan yazılarının paylaşılacağı sayfa) oluşturulması görevinin İbrahim, Logo tasarımı, reklam tasarımlarının hazırlanması ve sprint rapor kayıtlarının tutularak düzenlenmesi görevlerinin İlker tarafından gerçekleştirilmesi uygun görülmüştür. Ayrıca frontend ve backend geliştirme görevlerinin Müberra ve Merve tarafından, UI/UX tasarımlarının tüm grup üyeleri tarafından ortak çalışmayla yapılmasına karar verilmiştir. Gelecek toplantının 15.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda dokuzuncu toplantı planlanmıştır.
 
 ### 15.07.2024 (Dokuzuncu çevrimiçi toplantı)
-"""""""""""""""""""""""""""  
-15.07.2024 tarihli dokuzuncu çevrimiçi toplantıda 
-Not: Trello ekran görüntüsü 06.07.2024 tarihinde yapılan son rapor düzenlemeri esnasında alınarak eklenmiştir. 
+
+15.07.2024 tarihli dokuzuncu çevrimiçi toplantıda planlanmış olan görevlerin ve dağılımın üzerinden geçilmiştir. Ve görev kartları sprint board'a eklenerek ilgili atamalar yapılmıştır. Logo tasarımı hakkında beklentiler konuşularak tasarımı yapacak olan İlker'in, grup üyelerinin ortak beklentileri hakkında fikir sahibi olması sağlanılmıştır. Kısa süren bu toplantı sonunda tüm grup üyelerinin görev süreçleri başlamıştır. Gelecek toplantının 17.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda onuncu toplantı planlanmıştır.  
+
+Not: Trello ekran görüntüsü 15.07.2024 tarihinde alınmış ve rapora eklenmiştir. 
 
 ### • Sprint Board Screenshotları: 
-![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/aa86af70-2a2c-4cbd-ad3b-484ac82545b9)
+![image](https://github.com/user-attachments/assets/f550910d-34d2-4e93-86e4-79395c23698c)
 
 ## • Product Backlog URL
 • Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp
