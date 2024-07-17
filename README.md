@@ -159,7 +159,8 @@ Not: Trello ekran görüntüsü 15.07.2024 tarihinde alınmış ve rapora eklenm
 
 Logo tasarımı:  
 
-
+![image](https://github.com/user-attachments/assets/bbe710ea-d20b-484a-9182-1228366743fe)
+![image](https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890)
  
 </ol>
 </details>
