@@ -124,7 +124,7 @@ olmak üzere bir sonraki sprint için alınan aksiyon kararları kayda geçmişt
 -Uygulamanın ilk aşama için sadece Türkçe dilinde olması üzerinde karar kılınmıştır.   
 
 ## • Sprint İçinde Tamamlanması Tahmin Edilen Puan 
- 10
+ 16
 ## • Puan Tamamlama Mantığı: 
 (Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.)
 Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için bitirilmesi istenilen puan sayısı 16 olarak belirlenmiştir ve hedefe ulaşılmıştır.
