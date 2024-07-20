@@ -168,7 +168,10 @@ Logo tasarımı:
 
 ### • Ödeme Ekranı Screenshotları: 
 
-### • Reklam Tasarımları: 
+### • Reklam Tasarımları:   
+
+![image](https://github.com/user-attachments/assets/e90b577e-5e5e-41b9-849f-bd43d66243a7)
+![image](https://github.com/user-attachments/assets/0539983d-4580-486b-912b-38f9c91f7933)
  
 </ol>
 </details>
