@@ -161,6 +161,14 @@ Logo tasarımı:
 
 ![image](https://github.com/user-attachments/assets/bbe710ea-d20b-484a-9182-1228366743fe)
 ![image](https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890)
+
+### 17.07.2024 (Onuncu çevrimiçi toplantı)
+
+17.07.2024 tarihli onuncu çevrimiçi toplantıda Merve'nin oluşturmuş olduğu ödeme ekranı test edilmiştir ve grup üyelerine sunulmuştur. (Ödeme ekranı ile ilgili görseller toplantı özeti sonrasında verilmiştir.) İlker'in tasarlamış olduğu kare ve dikey formdaki reklam görselleri de grup ile paylaşılmış ve grup üyeleri tarafından onaylanmıştır.  
+
+### • Ödeme Ekranı Screenshotları: 
+
+### • Reklam Tasarımları: 
  
 </ol>
 </details>
