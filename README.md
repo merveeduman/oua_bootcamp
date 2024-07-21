@@ -130,13 +130,13 @@ olmak üzere bir sonraki sprint için alınan aksiyon kararları kayda geçmişt
      
 ## 2.Sprint Süreç ve Kararlar
 ## • Sprint Notları:
--Bu sprint sürecinde uygulamanın logosu tasarlanmış ve ilgili olarak uygulamanın tema renginin mat yeşil olmasına karar verilmiştir.  
--Uygulamanın ilk aşama için sadece Türkçe dilinde olması üzerinde karar kılınmıştır.   
+-Bu sprint sürecinde uygulamanın logosu tasarlanmış ve ilgili olarak uygulamanın sembol renginin mat asker yeşili olmasına karar verilmiştir.  
+-Uygulamanın ilk aşama için sadece Türkçe dilinde olması üzerinde karar kılınmıştır.  
 
 ## • Sprint İçinde Tamamlanması Tahmin Edilen Puan 
  16
 ## • Puan Tamamlama Mantığı: 
-(Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.)
+(Sprint içi puan değerlendirmesi 16 olarak belirlenmiştir.)
 Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için bitirilmesi istenilen puan sayısı 16 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 ## • Daily Scrum:
 İlk sprint sürecinde açılmış olan Whatsapp grubu üzerinden görüşmeler sağlanmaya devam edilmiş ve grup üyelerinin ortak takvim uygunluklarına yönelik ilk toplantı planlanmıştır.
@@ -178,6 +178,9 @@ Logo tasarımı:
 
 ### • Ödeme Ekranı Screenshotları:
 
+![image](https://github.com/user-attachments/assets/e435a3bb-ec81-46d3-a850-7825826f8209)
+![image](https://github.com/user-attachments/assets/3a7d4f2d-722a-41fb-b12d-5196271e7c1a)
+![image](https://github.com/user-attachments/assets/745c4497-5638-40c8-ab5f-4cc16f3241d2)
 
 ### • Reklam Tasarımları:   
 
