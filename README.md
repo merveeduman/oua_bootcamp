@@ -16,9 +16,9 @@ Avukatım, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hu
 
 ![image](https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890)
 
- <details>
-  <summary>1.Sprint</summary>
-  <ol>  
+ <details style="font-size: 1.5em; padding: 10px;">
+  <summary style="font-size: 1.2em;">1. Sprint</summary>
+  <ol> 
      
 ## 1.Sprint Süreç ve Kararlar
 ## • Sprint Notları:
