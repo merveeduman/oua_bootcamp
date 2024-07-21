@@ -124,9 +124,9 @@ olmak üzere bir sonraki sprint için alınan aksiyon kararları kayda geçmişt
 </ol>
 </details>
 
-<details>
-  <summary>2.Sprint</summary>
-  <ol>  
+ <details>
+  <summary><h3>2. Sprint</h3></summary>
+  <ol> 
      
 ## 2.Sprint Süreç ve Kararlar
 ## • Sprint Notları:
