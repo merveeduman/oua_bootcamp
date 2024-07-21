@@ -205,7 +205,7 @@ Logo tasarımı:
 • Bu sprint sürecinde uygulamanın görsel arayüzü ve temel yazılım prototipi temel olarak ortaya çıkmıştır. Uygulama içi fonksiyonlar daha fazla netlik kazanmıştır.
 • Sprint Review katılımcıları:Merve Duman, Müberra Sinem,İlker Nohutcu
 ## •  Sprint Retrospective :
-Tarih: 06.07.2024  
+Tarih: 21.07.2024  
 Katılımcılar: Merve, Müberra, İlker, İbrahim
 Toplantının Genel Amacı:  
 Geçtiğimiz sprintin değerlendirilmesi, başarılı olan alanların belirlenmesi ve iyileştirme gerektiren konuların tespit edilmesi. Gelecek sprinte dair aksiyon hedefleri.  
