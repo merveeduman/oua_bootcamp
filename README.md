@@ -112,7 +112,7 @@ Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve 
 </ol>
  <oi>  
   
- </details>
+ </details>  
   
 Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan tüm görevlerin üyeler tarafından tamamlandığına dair kontrol sağlanmıştır. Sıradaki toplantının 8 Temmuz'da yapılacak olan 2.Sprint buluşmasından sonra 9 Temmuz 2024 tarihinde yapılması uygun görülerek ilk sprint süreci tamamlanmıştır.  
 
@@ -177,10 +177,17 @@ Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için
 
 15.07.2024 tarihli dokuzuncu çevrimiçi toplantıda planlanmış olan görevlerin ve dağılımın üzerinden geçilmiştir. Ve görev kartları sprint board'a eklenerek ilgili atamalar yapılmıştır. Logo tasarımı hakkında beklentiler konuşularak tasarımı yapacak olan İlker'in, grup üyelerinin ortak beklentileri hakkında fikir sahibi olması sağlanılmıştır. Kısa süren bu toplantı sonunda tüm grup üyelerinin görev süreçleri başlamıştır. Gelecek toplantının 17.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda onuncu toplantı planlanmıştır.  
 
-Not: Trello ekran görüntüsü 15.07.2024 tarihinde alınmış ve rapora eklenmiştir. 
+<details>
+  <summary><h3>Altıncı Toplantı Ekran Görüntüleri</h3></summary>
+  <ol>
+   <oi>  
+    
+BURAYA SON TRELLO GÖRÜNTÜSÜ GELECEK
 
-### • Sprint Board Ekran Görüntüleri: 
-![image](https://github.com/user-attachments/assets/f550910d-34d2-4e93-86e4-79395c23698c)
+</ol>
+ <oi>  
+  
+ </details>  
 
 ## • Product Backlog URL
 • Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp  
@@ -189,33 +196,59 @@ Not: Trello ekran görüntüsü 15.07.2024 tarihinde alınmış ve rapora eklenm
 
 17.07.2024 tarihli onuncu çevrimiçi toplantıda İlker'in oluşturmuş olduğu 4 logo seçeneği grup üyeleri arasında oylamaya sunularak oy birliğiyle logo seçilmiştir. Gelecek toplantının 19.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on birinci toplantı planlanmıştır.  
 
-Logo tasarımı:  
-
+<details>
+  <summary><h3>Onuncu Toplantı Ekran Görüntüleri</h3></summary>
+  <ol>
+   <oi>  
+    
 ![image](https://github.com/user-attachments/assets/bbe710ea-d20b-484a-9182-1228366743fe)
 ![image](https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890)
+
+</ol>
+ <oi>  
+  
+ </details>  
 
 ### 18.07.2024 (On birinci çevrimiçi toplantı)
 
 17.07.2024 tarihli on birinci çevrimiçi toplantıda Merve'nin oluşturmuş olduğu ödeme ekranı test edilmiştir ve grup üyelerine sunulmuştur. (Ödeme ekranı ile ilgili görseller toplantı özeti sonrasında verilmiştir.) İlker'in tasarlamış olduğu kare ve dikey formdaki reklam görselleri de grup ile paylaşılmış ve grup üyeleri tarafından onaylanmıştır. Gelecek toplantının 18.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on ikinci toplantı planlanmıştır.   
 
-### • Ödeme Ekranı Ekran Görüntüleri:
-
+<details>
+  <summary><h3>On Birinci Toplantı Ekran Görüntüleri</h3></summary>
+  <ol>
+   <oi>  
+    
 ![image](https://github.com/user-attachments/assets/e435a3bb-ec81-46d3-a850-7825826f8209)
 ![image](https://github.com/user-attachments/assets/3a7d4f2d-722a-41fb-b12d-5196271e7c1a)
 ![image](https://github.com/user-attachments/assets/745c4497-5638-40c8-ab5f-4cc16f3241d2)
 
-### • Reklam Tasarımları:   
+
 
 ![image](https://github.com/user-attachments/assets/e90b577e-5e5e-41b9-849f-bd43d66243a7)
 ![image](https://github.com/user-attachments/assets/0539983d-4580-486b-912b-38f9c91f7933)
+
+
+</ol>
+ <oi>  
+  
+ </details>  
+
 
 ### 19.07.2024 (On ikinci çevrimiçi toplantı)
 
 18.07.2024 tarihli on ikinci çevrimiçi toplantıda Müberra'nın entegrasyonunu sağladığı jwt kimlik doğrulaması, avukat kontrol paneli, dio pakedi ile data transferi altyapısı, görüntü görüşme api'si, uygulama içi yapay zeka modeli ve kullanıcı profili düzenleme & favori ekleme özellikleri grup üyelerine sunulmuş ve grup üyeleri tarafından onaylanarak rapora eklenmiştir. Gelecek toplantının 20.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on üçüncü toplantı planlanmıştır.   
 
-### • On İkinci Toplantı Ekran Görüntüleri:
+<details>
+  <summary><h3>On İkinci Toplantı Ekran Görüntüleri</h3></summary>
+  <ol>
+   <oi>  
+    
+EKRAN GÖRÜNTÜLERİ BURAYA GELECEK
 
-
+</ol>
+ <oi>  
+  
+ </details>  
 
 ### 20.07.2024 (On üçüncü çevrimiçi toplantı)
 
