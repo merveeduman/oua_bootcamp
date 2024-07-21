@@ -179,7 +179,7 @@ Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için
   <ol>
    <oi>  
     
-BURAYA SON TRELLO GÖRÜNTÜSÜ GELECEK
+<img width="1800" alt="Ekran Resmi 2024-07-21 23 53 02" src="https://github.com/user-attachments/assets/7259b575-60ff-4f8f-9a82-d9a5cc25378a">
 
 </ol>
  <oi>  
