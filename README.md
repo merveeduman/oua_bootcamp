@@ -120,7 +120,7 @@ Ne Yanlış Gitti?
 Aksiyon Maddeleri:  
 1.	Kapsam Netleştirme: Bir sonraki sprintte görevlerin daha detaylı ve gerçekçi bir şekilde planlanması için kodlama pratiğine girmeden önce uygulama kapsamının ve fonksiyonel detayların tamamen netleşmiş  olması üzerine çalışma yapılması.  
 2.	Logo Tasarımı: Uygulamanın logosunun 2. Sprintte yapılması.  
-3.	Kodlama: Uygulamanın kodlama işlerinin 2. Sprintte tamamlanması
+3.	Kodlama: Uygulamanın temel kodlama işlerinin 2. Sprintte tamamlanması
   
 olmak üzere bir sonraki sprint için alınan aksiyon kararları kayda geçmiştir.  
 </ol>
@@ -159,7 +159,7 @@ Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için
 
 Not: Trello ekran görüntüsü 15.07.2024 tarihinde alınmış ve rapora eklenmiştir. 
 
-### • Sprint Board Screenshotları: 
+### • Sprint Board Ekran Görüntüleri: 
 ![image](https://github.com/user-attachments/assets/f550910d-34d2-4e93-86e4-79395c23698c)
 
 ## • Product Backlog URL
@@ -167,18 +167,18 @@ Not: Trello ekran görüntüsü 15.07.2024 tarihinde alınmış ve rapora eklenm
 
 ### 17.07.2024 (Onuncu çevrimiçi toplantı)
 
-17.07.2024 tarihli onuncu çevrimiçi toplantıda İlker'in oluşturmuş olduğu 4 logo seçeneği grup üyeleri arasında oylamaya sunularak oy birliğiyle logo seçilmiştir. Gelecek toplantının 19.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda onuncu toplantı planlanmıştır.  
+17.07.2024 tarihli onuncu çevrimiçi toplantıda İlker'in oluşturmuş olduğu 4 logo seçeneği grup üyeleri arasında oylamaya sunularak oy birliğiyle logo seçilmiştir. Gelecek toplantının 19.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on birinci toplantı planlanmıştır.  
 
 Logo tasarımı:  
 
 ![image](https://github.com/user-attachments/assets/bbe710ea-d20b-484a-9182-1228366743fe)
 ![image](https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890)
 
-### 17.07.2024 (Onuncu çevrimiçi toplantı)
+### 18.07.2024 (On birinci çevrimiçi toplantı)
 
-17.07.2024 tarihli onuncu çevrimiçi toplantıda Merve'nin oluşturmuş olduğu ödeme ekranı test edilmiştir ve grup üyelerine sunulmuştur. (Ödeme ekranı ile ilgili görseller toplantı özeti sonrasında verilmiştir.) İlker'in tasarlamış olduğu kare ve dikey formdaki reklam görselleri de grup ile paylaşılmış ve grup üyeleri tarafından onaylanmıştır.  
+17.07.2024 tarihli on birinci çevrimiçi toplantıda Merve'nin oluşturmuş olduğu ödeme ekranı test edilmiştir ve grup üyelerine sunulmuştur. (Ödeme ekranı ile ilgili görseller toplantı özeti sonrasında verilmiştir.) İlker'in tasarlamış olduğu kare ve dikey formdaki reklam görselleri de grup ile paylaşılmış ve grup üyeleri tarafından onaylanmıştır. Gelecek toplantının 18.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on ikinci toplantı planlanmıştır.   
 
-### • Ödeme Ekranı Screenshotları:
+### • Ödeme Ekranı Ekran Görüntüleri:
 
 ![image](https://github.com/user-attachments/assets/e435a3bb-ec81-46d3-a850-7825826f8209)
 ![image](https://github.com/user-attachments/assets/3a7d4f2d-722a-41fb-b12d-5196271e7c1a)
@@ -188,6 +188,43 @@ Logo tasarımı:
 
 ![image](https://github.com/user-attachments/assets/e90b577e-5e5e-41b9-849f-bd43d66243a7)
 ![image](https://github.com/user-attachments/assets/0539983d-4580-486b-912b-38f9c91f7933)
+
+### 19.07.2024 (On ikinci çevrimiçi toplantı)
+
+18.07.2024 tarihli on ikinci çevrimiçi toplantıda Müberra'nın entegrasyonunu sağladığı jwt kimlik doğrulaması, avukat kontrol paneli, dio pakedi ile data transferi altyapısı, görüntü görüşme api'si, uygulama içi yapay zeka modeli ve kullanıcı profili düzenleme & favori ekleme özellikleri grup üyelerine sunulmuş ve grup üyeleri tarafından onaylanarak rapora eklenmiştir. Gelecek toplantının 20.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on üçüncü toplantı planlanmıştır.   
+
+### • On İkinci Toplantı Ekran Görüntüleri:
+
+
+
+### 20.07.2024 (On üçüncü çevrimiçi toplantı)
+
+
+
+## •  Sprint Review :
+• Bu sprint sürecinde uygulamanın görsel arayüzü ve temel yazılım prototipi temel olarak ortaya çıkmıştır. Uygulama içi fonksiyonlar daha fazla netlik kazanmıştır.
+• Sprint Review katılımcıları:Merve Duman, Müberra Sinem,İlker Nohutcu
+## •  Sprint Retrospective :
+Tarih: 06.07.2024  
+Katılımcılar: Merve, Müberra, İlker, İbrahim
+Toplantının Genel Amacı:  
+Geçtiğimiz sprintin değerlendirilmesi, başarılı olan alanların belirlenmesi ve iyileştirme gerektiren konuların tespit edilmesi. Gelecek sprinte dair aksiyon hedefleri.  
  
+ Ne İyi Gitti?  
+•	Kurumsal Kimlik: Uygulamanın logo ve reklam görsellerinin tasarımı grup üyelerinin beklentileri doğrultusunda gerçekleştirilmiş oldu.  
+•	Frontend Süreci: Frontend süreci 2.sprint için planlandığı şekilde oldukça verimli geçti. Kısa sürede büyük yol kat edildi.  
+  
+Ne Yanlış Gitti?  
+•	Ekip Sorunları: Her grup üyesinin etkili katılımı sağlanamadı.  
+  
+İyileştirme Fırsatları:  
+•	Görevlere Katılım: Tüm grup üyelerinin görevlerini etkili bir şekilde yerine getirmeye teşvik ederek daha adil bir görev dağılımı sağlamak.
+  
+Aksiyon Maddeleri:  
+1.	Frontend ve Backend Finalizasyonu: Son sprintte frontend ve backend sürecinin final hale getirilmesi.
+2. Uygulamanın sosyal medya hesaplarının oluşturularak kullanıma hazır hale getirilmesi.  
+2. Uygulamanın jüriye sunulacak olan halinin hazırlanması ve github'a yüklenmesi.  
+
+olmak üzere son sprint için alınan aksiyon kararları kayda geçmiştir.  
 </ol>
 </details>
