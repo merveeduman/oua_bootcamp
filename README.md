@@ -9,7 +9,7 @@ Müberra Sinem - Developer
 
 ## • ÜRÜN BİLGİLERİ
 ### Ürün adı:
-Avukatım
+Avukatım Mobile
 
 ### Ürün Özet Açıklaması:
 Avukatım, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hukuki olayları ücretsiz ve ücretli olarak danışabilecekleri hukuki danışmanlık ofisidir.
