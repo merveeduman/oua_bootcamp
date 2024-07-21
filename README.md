@@ -160,9 +160,6 @@ olmak üzere bir sonraki sprint için alınan aksiyon kararları kayda geçmişt
 ## • Puan Tamamlama Mantığı: 
 (Sprint içi puan değerlendirmesi 16 olarak belirlenmiştir.)
 Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için bitirilmesi istenilen puan sayısı 16 olarak belirlenmiştir ve hedefe ulaşılmıştır.
-## • Daily Scrum:
-İlk sprint sürecinde açılmış olan Whatsapp grubu üzerinden görüşmeler sağlanmaya devam edilmiş ve grup üyelerinin ortak takvim uygunluklarına yönelik ilk toplantı planlanmıştır.
-
 
 ## • TOPLANTILAR VE KARAR VERME AŞAMALARI
 ### 10.07.2024 (Yedinci çevrimiçi toplantı)
@@ -171,14 +168,14 @@ Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için
 
 ### 13.07.2024 (Sekizinci çevrimiçi toplantı)
 
-13.07.2024 tarihli sekizinci çevrimiçi toplantıda, üyelerin yetenek ve yetkinlikleri doğrultusunda 2.sprint görevlerinin dağılımı yapılmıştır. Yapay zeka geliştirme ve api entegrasyonu, görüntülü görüşme için api entegrasyonu görevlerinin Müberra, Ödeme ekranının oluşturulması, görsel prototip oluştuma görevlerinin Merve, Blog sayfasının (avukatların akademik veya akademik olmayan yazılarının paylaşılacağı sayfa) oluşturulması görevinin İbrahim, Logo tasarımı, reklam tasarımlarının hazırlanması ve sprint rapor kayıtlarının tutularak düzenlenmesi görevlerinin İlker tarafından gerçekleştirilmesi uygun görülmüştür. Ayrıca frontend ve backend geliştirme görevlerinin Müberra ve Merve tarafından, UI/UX tasarımlarının tüm grup üyeleri tarafından ortak çalışmayla yapılmasına karar verilmiştir. Gelecek toplantının 15.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda dokuzuncu toplantı planlanmıştır.
+13.07.2024 tarihli sekizinci çevrimiçi toplantıda, üyelerin yetenek ve yetkinlikleri doğrultusunda 2.sprint görevlerinin dağılımı yapılmıştır. Yapay zeka geliştirme ve api entegrasyonu, görüntülü görüşme için api entegrasyonu görevlerinin Müberra, Ödeme ekranının oluşturulması, görsel prototip oluştuma görevlerinin Merve, Logo tasarımı, reklam tasarımlarının hazırlanması ve sprint rapor kayıtlarının tutularak düzenlenmesi görevlerinin İlker tarafından gerçekleştirilmesi uygun görülmüştür. Ayrıca frontend ve backend geliştirme görevlerinin Müberra ve Merve tarafından, UI/UX tasarımlarının tüm grup üyeleri tarafından ortak çalışmayla yapılmasına karar verilmiştir. Gelecek toplantının 15.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda dokuzuncu toplantı planlanmıştır.
 
 ### 15.07.2024 (Dokuzuncu çevrimiçi toplantı)
 
 15.07.2024 tarihli dokuzuncu çevrimiçi toplantıda planlanmış olan görevlerin ve dağılımın üzerinden geçilmiştir. Ve görev kartları sprint board'a eklenerek ilgili atamalar yapılmıştır. Logo tasarımı hakkında beklentiler konuşularak tasarımı yapacak olan İlker'in, grup üyelerinin ortak beklentileri hakkında fikir sahibi olması sağlanılmıştır. Kısa süren bu toplantı sonunda tüm grup üyelerinin görev süreçleri başlamıştır. Gelecek toplantının 17.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda onuncu toplantı planlanmıştır.  
 
 <details>
-  <summary><h3>Altıncı Toplantı Ekran Görüntüleri</h3></summary>
+  <summary><h3>Dokuzuncu Toplantı Ekran Görüntüleri</h3></summary>
   <ol>
    <oi>  
     
@@ -194,7 +191,7 @@ BURAYA SON TRELLO GÖRÜNTÜSÜ GELECEK
 
 ### 17.07.2024 (Onuncu çevrimiçi toplantı)
 
-17.07.2024 tarihli onuncu çevrimiçi toplantıda İlker'in oluşturmuş olduğu 4 logo seçeneği grup üyeleri arasında oylamaya sunularak oy birliğiyle logo seçilmiştir. Gelecek toplantının 19.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on birinci toplantı planlanmıştır.  
+17.07.2024 tarihli onuncu çevrimiçi toplantıda İlker'in oluşturmuş olduğu 4 logo seçeneği grup üyeleri arasında oylamaya sunularak oy birliğiyle logo seçilmiştir. Gelecek toplantının 18.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on birinci toplantı planlanmıştır.  
 
 <details>
   <summary><h3>Onuncu Toplantı Ekran Görüntüleri</h3></summary>
@@ -211,7 +208,7 @@ BURAYA SON TRELLO GÖRÜNTÜSÜ GELECEK
 
 ### 18.07.2024 (On birinci çevrimiçi toplantı)
 
-17.07.2024 tarihli on birinci çevrimiçi toplantıda Merve'nin oluşturmuş olduğu ödeme ekranı test edilmiştir ve grup üyelerine sunulmuştur. (Ödeme ekranı ile ilgili görseller toplantı özeti sonrasında verilmiştir.) İlker'in tasarlamış olduğu kare ve dikey formdaki reklam görselleri de grup ile paylaşılmış ve grup üyeleri tarafından onaylanmıştır. Gelecek toplantının 18.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on ikinci toplantı planlanmıştır.   
+17.07.2024 tarihli on birinci çevrimiçi toplantıda Merve'nin oluşturmuş olduğu ödeme ekranı test edilmiştir ve grup üyelerine sunulmuştur. (Ödeme ekranı ile ilgili görseller toplantı özeti sonrasında verilmiştir.) İlker'in tasarlamış olduğu kare ve dikey formdaki reklam görselleri de grup ile paylaşılmış ve grup üyeleri tarafından onaylanmıştır. Gelecek toplantının 19.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on ikinci toplantı planlanmıştır.   
 
 <details>
   <summary><h3>On Birinci Toplantı Ekran Görüntüleri</h3></summary>
@@ -243,7 +240,13 @@ BURAYA SON TRELLO GÖRÜNTÜSÜ GELECEK
   <ol>
    <oi>  
     
-EKRAN GÖRÜNTÜLERİ BURAYA GELECEK
+![image](https://github.com/user-attachments/assets/2dd97efa-06ec-4f1f-928c-268838448949)
+![image](https://github.com/user-attachments/assets/7863920f-7d7b-43a8-af8c-04da9029e725)
+![image](https://github.com/user-attachments/assets/8a4e478b-4c95-417a-917b-8f1d0cd17284)
+![image](https://github.com/user-attachments/assets/14107f3c-a584-44ee-9ee8-bfba24cfbf5a)
+![image](https://github.com/user-attachments/assets/256fe270-1a10-4103-8f9b-7cbfb25551e8)
+![image](https://github.com/user-attachments/assets/4a461ae2-c317-436f-a0d9-f968cfccd635)
+
 
 </ol>
  <oi>  
