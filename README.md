@@ -16,6 +16,8 @@ Avukatım, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hu
 
 ![image](https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890)
 
+## • SPRINTS
+
  <details>
   <summary><h3>1. Sprint</h3></summary>
   <ol>
