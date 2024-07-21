@@ -222,7 +222,7 @@ Logo tasarımı:
 
 
 ## •  Sprint Review :
-• Bu sprint sürecinde uygulamanın görsel arayüzü ve temel yazılım prototipi temel olarak ortaya çıkmıştır. Uygulama içi fonksiyonlar daha fazla netlik kazanmıştır.
+• Bu sprint sürecinde uygulamanın görsel arayüzü ve temel yazılım prototipi temel olarak ortaya çıkmıştır. Uygulama içi fonksiyonlar daha fazla netlik kazanmıştır.  
 • Sprint Review katılımcıları:Merve Duman, Müberra Sinem,İlker Nohutcu
 ## •  Sprint Retrospective :
 Tarih: 21.07.2024  
