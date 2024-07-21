@@ -51,8 +51,17 @@ Whatsapp üzerinden görüşmeler sağlanmıştır.Genel adında ana bir grup ol
 29.06.2024 tarihli üçüncü çevrimiçi toplantıda eldeki mevcut iki fikirden hukuki danışmanlık app'i daha uygun görülerek üzerinde karar kılınmıştır. Uygyulamanın kapsamının ve fonksiyonlarının netleşmesi üzerine düşünceler geliştirmek ve bir sonraki toplantıda netleşmeyi sağlamak üzere toplantı sonlandırılmıştır. Ayrıca bu toplantıda UI design için Figma kullanılması doğrultusunda karar alınmıştır ve yapay zeka api'si olarak Gemini kullanılması doğrultusunda karar alınmıştır. Toplantı sonrasında İlk sprint için görevler ve tarihleri belirlenmiş, görev atamaları yapılmıştır.
 Not: Trello ekran görüntüsü 06.07.2024 tarihinde yapılan son rapor düzenlemeri esnasında alınarak eklenmiştir. 
 
-### • Sprint Board Screenshotları: 
+<details>
+  <summary><h3>Üçüncü Toplantı Ekran Görüntüleri</h3></summary>
+  <ol>
+   <oi>  
+    
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/aa86af70-2a2c-4cbd-ad3b-484ac82545b9)
+
+</ol>
+ <oi>  
+  
+</details>
 
 ## • Product Backlog URL
 • Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp
@@ -84,17 +93,28 @@ Danışman açısından: Ürün, avukatlar açısından reklam verme yasağını
 ### Ürün Hedef Kitlesi:
 Hukuki danışmanlık almak isteyen ve aktif bir şekilde mobil uygulama kullanan, internet alışverişi ve çevrimiçi ödeme yapmakta olan 18-50 yaş arası tüm insanlar.
 Genç veya stajyer avukatlar, internet üzerinden çevrimiçi faaliyet göstermek isteyen deneyimli ve teknolojiyi aktif kullanan 30-50 yaş arası bağımsız avukatlar.
-Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve gelecek toplantının 05.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda altıncı toplantı planlanmıştır.
-## • İLK SPRİNT ÖNCESİ SON TOPLANTI
-### 05.07.2024 (Altıncı çevrimiçi toplantı)
+Beşinci toplantıda ürün kapsamı belirtildiği şekilde netleştirilmiş ve gelecek toplantının 05.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda altıncı toplantı planlanmıştır.  
+
+### 05.07.2024 (Altıncı çevrimiçi toplantı)  
+
 05.07.2024 tarihli altıncı çevrimiçi toplantıda Merve'nin hazırlamış olduğu uygulamanın tanıtım ekranları ve İlker'in hazırladığı İş Modeli Kanvası ve kullanıcı personaları incelenmiş ve fikir birliği ile uygun bulunmuştur. 
-Çalışmalar aşağıdaki gibidir:
-#### • Ürün Hakkında Bilgilendirici Açıklamalar ve Ürün Yorumları: Ekran Görüntüleri:
+Çalışmalar aşağıdaki gibidir:  
+
+<details>
+  <summary><h3>Altıncı Toplantı Ekran Görüntüleri</h3></summary>
+  <ol>
+   <oi>  
+    
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/bd68512b-528a-4699-a94d-fb0309d50d72)
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/104201769/e2bea764-1d36-4951-afee-f3ad4242558e)
-#### • Ürün Durumu: Ekran Görüntüleri:
 ![image](https://github.com/merveeduman/oua_bootcamp/assets/153215629/a65c59fd-13f8-4333-8336-0909de1c233a)
-Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan tüm görevlerin üyeler tarafından tamamlandığına dair kontrol sağlanmıştır. Sıradaki toplantının 8 Temmuz'da yapılacak olan 2.Sprint buluşmasından sonra 9 Temmuz 2024 tarihinde yapılması uygun görülerek ilk sprint süreci tamamlanmıştır.
+
+</ol>
+ <oi>  
+  
+ </details>
+  
+Toplantı sonrasında ilk sprint sürecinin eksiksiz tamamlandığı ve atanan tüm görevlerin üyeler tarafından tamamlandığına dair kontrol sağlanmıştır. Sıradaki toplantının 8 Temmuz'da yapılacak olan 2.Sprint buluşmasından sonra 9 Temmuz 2024 tarihinde yapılması uygun görülerek ilk sprint süreci tamamlanmıştır.  
 
 ## •  Sprint Review :
 • Tanıtım sayfa tasarımlarının ilgi çekici ve kullanıcı dostu arayüze sahip olduguna ve diğer sayfaların da bu tarzda olmasına karar verilmiştir.  
