@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td></td>
+      <td><img src="" width="50" height="50" /></td>
       <td>İbrahim Türker</td>
       <td>Developer</td>
       <td>
