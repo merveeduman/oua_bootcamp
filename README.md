@@ -1,13 +1,6 @@
 # oua_bootcamp
 ## Flutter Grup 68
 
-İlker Nohutcu - Product Owner  
-Merve Duman - Scrum Master  
-Müberra Sinem - Developer  
-İbrahim Türker- Developer  
-
-
- ## Team Members
 
   <table>
     <tr>
