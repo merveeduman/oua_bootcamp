@@ -17,7 +17,7 @@ Müberra Sinem - Developer
       <th>Socials</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890" width="50" height="50" /></td>
+      <td><img src="[https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890](https://github.com/user-attachments/assets/502e2c57-4d0b-49ad-af36-bad91832793c)" width="50" height="50" /></td>
       <td>İlker Nohutcu</td>
       <td>Product Owner</td>
       <td>
