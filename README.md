@@ -27,7 +27,7 @@ Müberra Sinem - Developer
       </td>
     </tr>
    <tr>
-      <td><img src="https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890" width="50" height="50" /></td>
+      <td><img src="https://github.com/user-attachments/assets/a286d146-c2ed-4a06-be00-efba1f1de799" width="50" height="50" /></td>
       <td>Merve Duman</td>
       <td>Scrum Master</td>
       <td>
