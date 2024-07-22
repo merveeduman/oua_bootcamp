@@ -7,6 +7,29 @@ Müberra Sinem - Developer
 İbrahim Türker- Developer  
 
 
+ ## Team Members
+
+  <table>
+    <tr>
+      <th></th>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Socials</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890" width="50" height="50" /></td>
+      <td>İlker Nohutcu</td>
+      <td>Product Owner</td>
+      <td>
+        <a href="https://github.com/burakcevheroglu" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/burakcevheroglu/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/bburaktaha/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+  </table>
+
+
+
 ## • ÜRÜN BİLGİLERİ
 ### Ürün adı:
 Avukatım Mobile  
