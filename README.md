@@ -14,6 +14,7 @@ Avukatım Mobile
 ### Ürün Özet Açıklaması:
 Avukatım, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hukuki olayları ücretsiz ve ücretli olarak danışabilecekleri hukuki danışmanlık ofisidir.  
 
+### Logo:
 <img src="https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890" width="192">
 
 ## • SPRINTS
