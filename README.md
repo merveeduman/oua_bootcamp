@@ -264,15 +264,15 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
   <summary><h3>Ürün Durumu Ekran Görüntüsü: Ödeme Ekranları (+ Reklam Tasarımları) </h3></summary>
   <ol>
    <oi>  
-    
+<p>    
 <img src="https://github.com/user-attachments/assets/e435a3bb-ec81-46d3-a850-7825826f8209" width="192">
 <img src="https://github.com/user-attachments/assets/3a7d4f2d-722a-41fb-b12d-5196271e7c1a" width="192">
 <img src="https://github.com/user-attachments/assets/745c4497-5638-40c8-ab5f-4cc16f3241d2" width="192">  
-
-
+</p>
+<p> 
 <img src="https://github.com/user-attachments/assets/0539983d-4580-486b-912b-38f9c91f7933" width="192">
 <img src="https://github.com/user-attachments/assets/e90b577e-5e5e-41b9-849f-bd43d66243a7" width="250">
-
+</p>
 </ol>
  <oi>  
   
