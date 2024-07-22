@@ -46,6 +46,14 @@ Müberra Sinem - Developer
         <a href="https://www.instagram.com/muberra_sinem/" target="_blank"><img src="https://github.com/user-attachments/assets/f5428274-264d-4d5c-9e0e-c06f36620ccd" width="20" height="20" /></a>
       </td>
     </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/7c81a82b-8aad-48d4-b1ca-508c2758b160" width="50" height="50" /></td>
+      <td>İbrahim Türker</td>
+      <td>Developer</td>
+      <td>
+      
+      </td>
+    </tr>
   </table>
 
 
