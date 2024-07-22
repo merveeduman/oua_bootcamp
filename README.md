@@ -40,11 +40,10 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td></td>
       <td>İbrahim Türker</td>
       <td>Developer</td>
       <td>
-        <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/18645d9c-e67b-467c-babb-7f76c1630ccb" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/in/ibrahimturker/" target="_blank" ><img src="https://github.com/user-attachments/assets/549f1557-44e1-4fb0-a45e-13906f94a6fd" width="20" height="20" /></a>
         <a href="https://www.instagram.com/ibrahimturker0/" target="_blank"><img src="https://github.com/user-attachments/assets/f5428274-264d-4d5c-9e0e-c06f36620ccd" width="20" height="20" /></a>
       </td>
