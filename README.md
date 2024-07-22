@@ -47,12 +47,10 @@ Müberra Sinem - Developer
       </td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/7c81a82b-8aad-48d4-b1ca-508c2758b160" width="50" height="50" /></td>
+      <td><img src="" width="50" height="50" /></td>
       <td>İbrahim Türker</td>
       <td>Developer</td>
-      <td>
-      
-      </td>
+      <td>""</td>
     </tr>
   </table>
 
