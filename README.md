@@ -160,6 +160,7 @@ olmak üzere bir sonraki sprint için alınan aksiyon kararları kayda geçmişt
 Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için bitirilmesi istenilen puan sayısı 16 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 ## • Daily Scrum:
 Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkındaki detaylar konuşularak süreci tüm ekip üyelerinin takip etmesi sağlanmıştır.
+![image](https://github.com/user-attachments/assets/9f89dc4d-3a29-4f01-b4a8-fb3245aa4ea2)
 
 ## • TOPLANTILAR VE KARAR VERME AŞAMALARI
 ### 10.07.2024 (Yedinci çevrimiçi toplantı)
