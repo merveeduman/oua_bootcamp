@@ -158,6 +158,8 @@ olmak üzere bir sonraki sprint için alınan aksiyon kararları kayda geçmişt
 ## • Puan Tamamlama Mantığı: 
 (Sprint içi puan değerlendirmesi 16 olarak belirlenmiştir.)
 Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için bitirilmesi istenilen puan sayısı 16 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+## • Daily Scrum:
+Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkındaki detaylar konuşularak süreci tüm ekip üyelerinin takip etmesi sağlanmıştır.
 
 ## • TOPLANTILAR VE KARAR VERME AŞAMALARI
 ### 10.07.2024 (Yedinci çevrimiçi toplantı)
@@ -173,7 +175,7 @@ Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için
 15.07.2024 tarihli dokuzuncu çevrimiçi toplantıda planlanmış olan görevlerin ve dağılımın üzerinden geçilmiştir. Ve görev kartları sprint board'a eklenerek ilgili atamalar yapılmıştır. Logo tasarımı hakkında beklentiler konuşularak tasarımı yapacak olan İlker'in, grup üyelerinin ortak beklentileri hakkında fikir sahibi olması sağlanılmıştır. Kısa süren bu toplantı sonunda tüm grup üyelerinin görev süreçleri başlamıştır. Gelecek toplantının 17.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda onuncu toplantı planlanmıştır.  
 
 <details>
-  <summary><h3>Dokuzuncu Toplantı Ekran Görüntüleri</h3></summary>
+  <summary><h3>Sprint Board Screenshotları </h3></summary>
   <ol>
    <oi>  
     
@@ -234,7 +236,7 @@ Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için
 18.07.2024 tarihli on ikinci çevrimiçi toplantıda Müberra'nın entegrasyonunu sağladığı jwt kimlik doğrulaması, avukat kontrol paneli, dio pakedi ile data transferi altyapısı, görüntü görüşme api'si, uygulama içi yapay zeka modeli ve kullanıcı profili düzenleme & favori ekleme özellikleri grup üyelerine sunulmuş ve grup üyeleri tarafından onaylanarak rapora eklenmiştir. Gelecek toplantının 20.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on üçüncü toplantı planlanmıştır.   
 
 <details>
-  <summary><h3>On İkinci Toplantı Ekran Görüntüleri</h3></summary>
+  <summary><h3>On ÜRÜN DURUMU EKRAN GÖRÜNTÜLERİ</h3></summary>
   <ol>
    <oi>  
     
