@@ -31,9 +31,9 @@ Müberra Sinem - Developer
       <td>Merve Duman</td>
       <td>Scrum Master</td>
       <td>
-        <a href="https://github.com/thedakuman" target="_blank"><img src="https://github.com/user-attachments/assets/18645d9c-e67b-467c-babb-7f76c1630ccb" width="20" height="20"/></a>
+        <a href="https://github.com/merveeduman" target="_blank"><img src="https://github.com/user-attachments/assets/18645d9c-e67b-467c-babb-7f76c1630ccb" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/in/merve-duman-/" target="_blank" ><img src="https://github.com/user-attachments/assets/549f1557-44e1-4fb0-a45e-13906f94a6fd" width="20" height="20" /></a>
-        <a href="https://www.instagram.com/ilkernohutcu/" target="_blank"><img src="https://github.com/user-attachments/assets/f5428274-264d-4d5c-9e0e-c06f36620ccd" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/merve.dumaann/" target="_blank"><img src="https://github.com/user-attachments/assets/f5428274-264d-4d5c-9e0e-c06f36620ccd" width="20" height="20" /></a>
       </td>
     </tr>
   </table>
