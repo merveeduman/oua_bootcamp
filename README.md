@@ -266,12 +266,12 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
   <ol>
    <oi>  
     
-![image](https://github.com/user-attachments/assets/2dd97efa-06ec-4f1f-928c-268838448949)
-![image](https://github.com/user-attachments/assets/7863920f-7d7b-43a8-af8c-04da9029e725)
-![image](https://github.com/user-attachments/assets/8a4e478b-4c95-417a-917b-8f1d0cd17284)
-![image](https://github.com/user-attachments/assets/14107f3c-a584-44ee-9ee8-bfba24cfbf5a)
-![image](https://github.com/user-attachments/assets/256fe270-1a10-4103-8f9b-7cbfb25551e8)
-![image](https://github.com/user-attachments/assets/4a461ae2-c317-436f-a0d9-f968cfccd635)
+<img src="https://github.com/user-attachments/assets/2dd97efa-06ec-4f1f-928c-268838448949" width="192">
+<img src="https://github.com/user-attachments/assets/7863920f-7d7b-43a8-af8c-04da9029e725" width="192">
+<img src="https://github.com/user-attachments/assets/8a4e478b-4c95-417a-917b-8f1d0cd17284" width="192">
+<img src="https://github.com/user-attachments/assets/14107f3c-a584-44ee-9ee8-bfba24cfbf5a" width="192">
+<img src="https://github.com/user-attachments/assets/256fe270-1a10-4103-8f9b-7cbfb25551e8" width="192">
+<img src="https://github.com/user-attachments/assets/4a461ae2-c317-436f-a0d9-f968cfccd635" width="192">
 
 
 </ol>
