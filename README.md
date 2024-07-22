@@ -212,7 +212,7 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
 17.07.2024 tarihli on birinci çevrimiçi toplantıda Merve'nin oluşturmuş olduğu ödeme ekranı test edilmiştir ve grup üyelerine sunulmuştur. (Ödeme ekranı ile ilgili görseller toplantı özeti sonrasında verilmiştir.) İlker'in tasarlamış olduğu kare ve dikey formdaki reklam görselleri de grup ile paylaşılmış ve grup üyeleri tarafından onaylanmıştır. Gelecek toplantının 19.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on ikinci toplantı planlanmıştır.   
 
 <details>
-  <summary><h3>On Birinci Toplantı Ekran Görüntüleri</h3></summary>
+  <summary><h3>Ürün Durumu Ekran Görüntüsü: Ödeme Ekranları </h3></summary>
   <ol>
    <oi>  
     
