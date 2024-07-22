@@ -236,6 +236,9 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
 
 18.07.2024 tarihli on ikinci çevrimiçi toplantıda Müberra'nın entegrasyonunu sağladığı jwt kimlik doğrulaması, avukat kontrol paneli, dio pakedi ile data transferi altyapısı, görüntü görüşme api'si, uygulama içi yapay zeka modeli ve kullanıcı profili düzenleme & favori ekleme özellikleri grup üyelerine sunulmuş ve grup üyeleri tarafından onaylanarak rapora eklenmiştir. Gelecek toplantının 20.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on üçüncü toplantı planlanmıştır.   
 
+### 20.07.2024 (On üçüncü çevrimiçi toplantı)  
+20.07.2024 tarihli on üçüncü çevrimiçi toplantıda grup üyeleri atanan görevlerin genel hatlarıyla kontrolünü sağlamış ve eldeki prototoip uygulamanın özelliklerinde bir açık olup olmadığı üzere beyin fırtınası yapmıştır. Genel bir değerlendirme yapılan bu toplantının sonunda 21.07.2024 tarihinde sprint retrospektif toplantısı yapmak üzere planlama yapılarak 2. sprintin son çevrimiçi toplantısı sonlandırılmıştır.  
+
 <details>
   <summary><h3>ÜRÜN DURUMU EKRAN GÖRÜNTÜLERİ: Ana Ekranlar</h3></summary>
   <ol>
@@ -253,10 +256,6 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
  <oi>  
   
  </details>  
-
-### 20.07.2024 (On üçüncü çevrimiçi toplantı)
-
-
 
 ## •  Sprint Review :
 • Bu sprint sürecinde uygulamanın görsel arayüzü ve temel yazılım prototipi temel olarak ortaya çıkmıştır. Uygulama içi fonksiyonlar daha fazla netlik kazanmıştır.  
