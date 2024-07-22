@@ -17,7 +17,7 @@ Müberra Sinem - Developer
       <th>Socials</th>
     </tr>
     <tr>
-      <td><img src="[https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890](https://github.com/user-attachments/assets/502e2c57-4d0b-49ad-af36-bad91832793c)" width="50" height="50" /></td>
+      <td><img src="https://github.com/user-attachments/assets/502e2c57-4d0b-49ad-af36-bad91832793c" width="50" height="50" /></td>
       <td>İlker Nohutcu</td>
       <td>Product Owner</td>
       <td>
@@ -30,6 +30,16 @@ Müberra Sinem - Developer
       <td><img src="https://github.com/user-attachments/assets/a286d146-c2ed-4a06-be00-efba1f1de799" width="50" height="50" /></td>
       <td>Merve Duman</td>
       <td>Scrum Master</td>
+      <td>
+        <a href="https://github.com/merveeduman" target="_blank"><img src="https://github.com/user-attachments/assets/18645d9c-e67b-467c-babb-7f76c1630ccb" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/merve-duman-/" target="_blank" ><img src="https://github.com/user-attachments/assets/549f1557-44e1-4fb0-a45e-13906f94a6fd" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/merve.dumaann/" target="_blank"><img src="https://github.com/user-attachments/assets/f5428274-264d-4d5c-9e0e-c06f36620ccd" width="20" height="20" /></a>
+      </td>
+    </tr>
+   <tr>
+      <td><img src="https://github.com/user-attachments/assets/a286d146-c2ed-4a06-be00-efba1f1de799" width="50" height="50" /></td>
+      <td>Müberra Sinem</td>
+      <td>Developer</td>
       <td>
         <a href="https://github.com/merveeduman" target="_blank"><img src="https://github.com/user-attachments/assets/18645d9c-e67b-467c-babb-7f76c1630ccb" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/in/merve-duman-/" target="_blank" ><img src="https://github.com/user-attachments/assets/549f1557-44e1-4fb0-a45e-13906f94a6fd" width="20" height="20" /></a>
