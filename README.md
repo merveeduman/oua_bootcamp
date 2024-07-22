@@ -33,7 +33,7 @@ Avukatım, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hu
 Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 ## • Daily Scrum:
 Whatsapp üzerinden görüşmeler sağlanmıştır.Genel adında ana bir grup oluşturulmuştur.
-![WhatsApp Image 2024-07-09 at 11 10 57](https://github.com/merveeduman/oua_bootcamp/assets/139700200/5ff7e73e-0371-4923-ae8e-e2b9c29e0620)
+
 
 ## • TOPLANTILAR VE KARAR VERME AŞAMALARI
 ### 26.06.2024 (İlk çevrimiçi toplantı)
