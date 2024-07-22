@@ -23,7 +23,7 @@ Müberra Sinem - Developer
       <td>
         <a href="https://github.com/burakcevheroglu" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/in/burakcevheroglu/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
-        <a href="https://www.instagram.com/bburaktaha/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/bburaktaha/" target="_blank"><img src="https://github.com/user-attachments/assets/f5428274-264d-4d5c-9e0e-c06f36620ccd" width="20" height="20" /></a>
       </td>
     </tr>
   </table>
