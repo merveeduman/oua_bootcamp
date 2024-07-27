@@ -1,18 +1,66 @@
 # oua_bootcamp
 ## Flutter Grup 68
 
-İlker Nohutcu - Product Owner  
-Merve Duman - Scrum Master  
-Müberra Sinem - Developer  
-İbrahim Türker- Developer  
+
+  <table>
+    <tr>
+      <th></th>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Socials</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/502e2c57-4d0b-49ad-af36-bad91832793c" width="50" height="50" /></td>
+      <td>İlker Nohutcu</td>
+      <td>Product Owner</td>
+      <td>
+        <a href="https://github.com/thedakuman" target="_blank"><img src="https://github.com/user-attachments/assets/18645d9c-e67b-467c-babb-7f76c1630ccb" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/ilkernohutcu/" target="_blank" ><img src="https://github.com/user-attachments/assets/549f1557-44e1-4fb0-a45e-13906f94a6fd" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/ilkernohutcu/" target="_blank"><img src="https://github.com/user-attachments/assets/f5428274-264d-4d5c-9e0e-c06f36620ccd" width="20" height="20" /></a>
+      </td>
+    </tr>
+   <tr>
+      <td><img src="https://github.com/user-attachments/assets/a286d146-c2ed-4a06-be00-efba1f1de799" width="50" height="50" /></td>
+      <td>Merve Duman</td>
+      <td>Scrum Master</td>
+      <td>
+        <a href="https://github.com/merveeduman" target="_blank"><img src="https://github.com/user-attachments/assets/18645d9c-e67b-467c-babb-7f76c1630ccb" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/merve-duman-/" target="_blank" ><img src="https://github.com/user-attachments/assets/549f1557-44e1-4fb0-a45e-13906f94a6fd" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/merve.dumaann/" target="_blank"><img src="https://github.com/user-attachments/assets/f5428274-264d-4d5c-9e0e-c06f36620ccd" width="20" height="20" /></a>
+      </td>
+    </tr>
+   <tr>
+      <td><img src="https://github.com/user-attachments/assets/7c81a82b-8aad-48d4-b1ca-508c2758b160" width="50" height="50" /></td>
+      <td>Müberra Sinem</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://github.com/muberrasinem" target="_blank"><img src="https://github.com/user-attachments/assets/18645d9c-e67b-467c-babb-7f76c1630ccb" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/muberrasinem/" target="_blank" ><img src="https://github.com/user-attachments/assets/549f1557-44e1-4fb0-a45e-13906f94a6fd" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/muberra_sinem/" target="_blank"><img src="https://github.com/user-attachments/assets/f5428274-264d-4d5c-9e0e-c06f36620ccd" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="" width="50" height="50" /></td>
+      <td>İbrahim Türker</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://www.linkedin.com/in/ibrahimturker/" target="_blank" ><img src="https://github.com/user-attachments/assets/549f1557-44e1-4fb0-a45e-13906f94a6fd" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/ibrahimturker0/" target="_blank"><img src="https://github.com/user-attachments/assets/f5428274-264d-4d5c-9e0e-c06f36620ccd" width="20" height="20" /></a>
+      </td>
+    </tr>
+  </table>
+
 
 
 ## • ÜRÜN BİLGİLERİ
 ### Ürün adı:
-Avukatım Mobile
+Avukatım Mobile  
 
 ### Ürün Özet Açıklaması:
-Avukatım, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hukuki olayları ücretsiz ve ücretli olarak danışabilecekleri hukuki danışmanlık ofisidir.
+Avukatım, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hukuki olayları ücretsiz ve ücretli olarak danışabilecekleri hukuki danışmanlık ofisidir.  
+
+### Ürün Logosu:
+<img src="https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890" width="192">
 
 ## • SPRINTS
 
@@ -212,20 +260,18 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
 17.07.2024 tarihli on birinci çevrimiçi toplantıda Merve'nin oluşturmuş olduğu ödeme ekranı test edilmiştir ve grup üyelerine sunulmuştur. (Ödeme ekranı ile ilgili görseller toplantı özeti sonrasında verilmiştir.) İlker'in tasarlamış olduğu kare ve dikey formdaki reklam görselleri de grup ile paylaşılmış ve grup üyeleri tarafından onaylanmıştır. Gelecek toplantının 19.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on ikinci toplantı planlanmıştır.   
 
 <details>
-  <summary><h3>Ürün Durumu Ekran Görüntüsü: Ödeme Ekranları </h3></summary>
+  <summary><h3>Ürün Durumu Ekran Görüntüsü: Ödeme Ekranları (+ Reklam Tasarımları) </h3></summary>
   <ol>
    <oi>  
-    
-![image](https://github.com/user-attachments/assets/e435a3bb-ec81-46d3-a850-7825826f8209)
-![image](https://github.com/user-attachments/assets/3a7d4f2d-722a-41fb-b12d-5196271e7c1a)
-![image](https://github.com/user-attachments/assets/745c4497-5638-40c8-ab5f-4cc16f3241d2)
-
-
-
-![image](https://github.com/user-attachments/assets/e90b577e-5e5e-41b9-849f-bd43d66243a7)
-![image](https://github.com/user-attachments/assets/0539983d-4580-486b-912b-38f9c91f7933)
-
-
+<p>    
+<img src="https://github.com/user-attachments/assets/e435a3bb-ec81-46d3-a850-7825826f8209" width="192">
+<img src="https://github.com/user-attachments/assets/3a7d4f2d-722a-41fb-b12d-5196271e7c1a" width="192">
+<img src="https://github.com/user-attachments/assets/745c4497-5638-40c8-ab5f-4cc16f3241d2" width="192">  
+</p>
+<p> 
+<img src="https://github.com/user-attachments/assets/0539983d-4580-486b-912b-38f9c91f7933" width="192">
+<img src="https://github.com/user-attachments/assets/e90b577e-5e5e-41b9-849f-bd43d66243a7" width="339">
+</p>
 </ol>
  <oi>  
   
@@ -244,12 +290,12 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
   <ol>
    <oi>  
     
-![image](https://github.com/user-attachments/assets/2dd97efa-06ec-4f1f-928c-268838448949)
-![image](https://github.com/user-attachments/assets/7863920f-7d7b-43a8-af8c-04da9029e725)
-![image](https://github.com/user-attachments/assets/8a4e478b-4c95-417a-917b-8f1d0cd17284)
-![image](https://github.com/user-attachments/assets/14107f3c-a584-44ee-9ee8-bfba24cfbf5a)
-![image](https://github.com/user-attachments/assets/256fe270-1a10-4103-8f9b-7cbfb25551e8)
-![image](https://github.com/user-attachments/assets/4a461ae2-c317-436f-a0d9-f968cfccd635)
+<img src="https://github.com/user-attachments/assets/2dd97efa-06ec-4f1f-928c-268838448949" width="192">
+<img src="https://github.com/user-attachments/assets/7863920f-7d7b-43a8-af8c-04da9029e725" width="192">
+<img src="https://github.com/user-attachments/assets/8a4e478b-4c95-417a-917b-8f1d0cd17284" width="192">
+<img src="https://github.com/user-attachments/assets/14107f3c-a584-44ee-9ee8-bfba24cfbf5a" width="192">
+<img src="https://github.com/user-attachments/assets/256fe270-1a10-4103-8f9b-7cbfb25551e8" width="192">
+<img src="https://github.com/user-attachments/assets/4a461ae2-c317-436f-a0d9-f968cfccd635" width="192">
 
 
 </ol>
