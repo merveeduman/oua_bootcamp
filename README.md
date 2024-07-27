@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="50" height="50" /></td>
+      <td><img src="https://github.com/user-attachments/assets/26c10efc-cc39-46c7-9674-c361e275897a" width="50" height="50" /></td>
       <td>İbrahim Türker</td>
       <td>Developer</td>
       <td>
