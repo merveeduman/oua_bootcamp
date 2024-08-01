@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lawyer/screens/auth_page.dart';
 import 'package:lawyer/utils/config.dart';
+import 'intro_page.dart';
 
 import 'main_layout.dart';
 

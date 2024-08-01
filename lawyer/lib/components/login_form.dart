@@ -69,7 +69,7 @@ class _LoginFormState extends State<LoginForm> {
                 width: double.infinity,
                 title: 'Giriş',
                 onPressed: () {
-                  Navigator.of(context).pushNamed('main');
+                  Navigator.of(context).pushNamed('intro');
                 },
                 disable: false,
           ),
