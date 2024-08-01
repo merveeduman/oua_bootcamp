@@ -330,4 +330,144 @@ Aksiyon Maddeleri:
 
 olmak üzere son sprint için alınan aksiyon kararları kayda geçmiştir.  
 </ol>
+</details>  
+
+ <details>
+  <summary><h3>3. Sprint</h3></summary>
+  <ol> 
+     
+## 3.Sprint Süreç ve Kararlar
+## • Sprint Notları:
+-Bu sprint sürecinde uygulama final hale getirilmiştir ve test edilmiştir.  
+-Uygulamanın sprint takvimi kısıtlaması haricinde, yatrıma ulaşması durumunda geliştirmeye açık olan fonksiyonlar saptanmıştır.  
+
+## • Sprint İçinde Tamamlanması Tahmin Edilen Puan 
+ 10
+## • Puan Tamamlama Mantığı: 
+(Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.)
+Proje boyunca tamamlanması gereken backlog puanı 36'dır. Üçüncü sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+## • Daily Scrum:
+Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkındaki detaylar konuşularak süreci tüm ekip üyelerinin takip etmesi sağlanmıştır.
+(BURAYA DAILY SCRUM GORSELI GELECEK)
+
+## • TOPLANTILAR VE KARAR VERME AŞAMALARI
+### 24.07.2024 (On dördüncü çevrimiçi toplantı)
+
+24.07.2024 tarihinde on dördüncü çevrimiçi toplantı yapılmıştır. Toplantıda 3.sprint görev dağılımları yapılarak not edilmiştir. Toplantı sonrasında görevler İlker tarafından trello'ya işlenerek takvim ve görev takibi altyapısı oluşturulmuştur. Ardından grup üyelerinin kişisel yoğunluklarını atlatması ve akademi haricindeki işlerini tamamlayarak 3.sprint görevleri için zaman imkanı oluşturmaları doğrultusunda tüm grup üyelerine isteğe bağlı olarak 4 gün müsaade izni verilmiştir. Gelecek toplantının 28.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on beşinci çevrimiçi toplantı planlanmıştır.
+
+### 28.07.2024 (On beşinci çevrimiçi toplantı)
+
+28.07.2024 tarihli on beşinci çevrimiçi toplantıda, *******************************************************************************************************************. Gelecek toplantının 30.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on altıncı çevrimiçi toplantı planlanmıştır.
+
+### 15.07.2024 (Dokuzuncu çevrimiçi toplantı)
+
+15.07.2024 tarihli dokuzuncu çevrimiçi toplantıda planlanmış olan görevlerin ve dağılımın üzerinden geçilmiştir. Ve görev kartları sprint board'a eklenerek ilgili atamalar yapılmıştır. Logo tasarımı hakkında beklentiler konuşularak tasarımı yapacak olan İlker'in, grup üyelerinin ortak beklentileri hakkında fikir sahibi olması sağlanılmıştır. Kısa süren bu toplantı sonunda tüm grup üyelerinin görev süreçleri başlamıştır. Gelecek toplantının 17.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda onuncu toplantı planlanmıştır.  
+
+<details>
+  <summary><h3>SPRİNT BOARD SCREENSHOTLARI </h3></summary>
+  <ol>
+   <oi>  
+    
+<img width="1800" alt="Ekran Resmi 2024-07-21 23 53 02" src="https://github.com/user-attachments/assets/7259b575-60ff-4f8f-9a82-d9a5cc25378a">
+
+</ol>
+ <oi>  
+  
+ </details>  
+
+## • Product Backlog URL
+• Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp  
+
+### 17.07.2024 (Onuncu çevrimiçi toplantı)
+
+17.07.2024 tarihli onuncu çevrimiçi toplantıda İlker'in oluşturmuş olduğu 4 logo seçeneği grup üyeleri arasında oylamaya sunularak oy birliğiyle logo seçilmiştir. Gelecek toplantının 18.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on birinci toplantı planlanmıştır.  
+
+<details>
+  <summary><h3>Onuncu Toplantı Ekran Görüntüleri</h3></summary>
+  <ol>
+   <oi>  
+    
+![image](https://github.com/user-attachments/assets/bbe710ea-d20b-484a-9182-1228366743fe)
+![image](https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890)
+
+</ol>
+ <oi>  
+  
+ </details>  
+
+### 18.07.2024 (On birinci çevrimiçi toplantı)
+
+17.07.2024 tarihli on birinci çevrimiçi toplantıda Merve'nin oluşturmuş olduğu ödeme ekranı test edilmiştir ve grup üyelerine sunulmuştur. (Ödeme ekranı ile ilgili görseller toplantı özeti sonrasında verilmiştir.) İlker'in tasarlamış olduğu kare ve dikey formdaki reklam görselleri de grup ile paylaşılmış ve grup üyeleri tarafından onaylanmıştır. Gelecek toplantının 19.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on ikinci toplantı planlanmıştır.   
+
+<details>
+  <summary><h3>Ürün Durumu Ekran Görüntüsü: Ödeme Ekranları (+ Reklam Tasarımları) </h3></summary>
+  <ol>
+   <oi>  
+<p>    
+<img src="https://github.com/user-attachments/assets/e435a3bb-ec81-46d3-a850-7825826f8209" width="192">
+<img src="https://github.com/user-attachments/assets/3a7d4f2d-722a-41fb-b12d-5196271e7c1a" width="192">
+<img src="https://github.com/user-attachments/assets/745c4497-5638-40c8-ab5f-4cc16f3241d2" width="192">  
+</p>
+<p> 
+<img src="https://github.com/user-attachments/assets/0539983d-4580-486b-912b-38f9c91f7933" width="192">
+<img src="https://github.com/user-attachments/assets/e90b577e-5e5e-41b9-849f-bd43d66243a7" width="339">
+</p>
+</ol>
+ <oi>  
+  
+ </details>  
+
+
+### 19.07.2024 (On ikinci çevrimiçi toplantı)
+
+18.07.2024 tarihli on ikinci çevrimiçi toplantıda Müberra'nın entegrasyonunu sağladığı jwt kimlik doğrulaması, avukat kontrol paneli, dio pakedi ile data transferi altyapısı, görüntü görüşme api'si, uygulama içi yapay zeka modeli ve kullanıcı profili düzenleme & favori ekleme özellikleri grup üyelerine sunulmuş ve grup üyeleri tarafından onaylanarak rapora eklenmiştir. Gelecek toplantının 20.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on üçüncü toplantı planlanmıştır.   
+
+### 20.07.2024 (On üçüncü çevrimiçi toplantı)  
+20.07.2024 tarihli on üçüncü çevrimiçi toplantıda grup üyeleri atanan görevlerin genel hatlarıyla kontrolünü sağlamış ve eldeki prototoip uygulamanın özelliklerinde bir açık olup olmadığı üzere beyin fırtınası yapmıştır. Genel bir değerlendirme yapılan bu toplantının sonunda 21.07.2024 tarihinde sprint retrospektif toplantısı yapmak üzere planlama yapılarak 2. sprintin son çevrimiçi toplantısı sonlandırılmıştır.  
+
+<details>
+  <summary><h3>ÜRÜN DURUMU EKRAN GÖRÜNTÜLERİ: Ana Ekranlar</h3></summary>
+  <ol>
+   <oi>  
+    
+<img src="https://github.com/user-attachments/assets/2dd97efa-06ec-4f1f-928c-268838448949" width="192">
+<img src="https://github.com/user-attachments/assets/7863920f-7d7b-43a8-af8c-04da9029e725" width="192">
+<img src="https://github.com/user-attachments/assets/8a4e478b-4c95-417a-917b-8f1d0cd17284" width="192">
+<img src="https://github.com/user-attachments/assets/14107f3c-a584-44ee-9ee8-bfba24cfbf5a" width="192">
+<img src="https://github.com/user-attachments/assets/256fe270-1a10-4103-8f9b-7cbfb25551e8" width="192">
+<img src="https://github.com/user-attachments/assets/4a461ae2-c317-436f-a0d9-f968cfccd635" width="192">
+
+
+</ol>
+ <oi>  
+  
+ </details>  
+
+## •  Sprint Review :
+• Bu sprint sürecinde uygulamanın görsel arayüzü ve temel yazılım prototipi temel olarak ortaya çıkmıştır. Uygulama içi fonksiyonlar daha fazla netlik kazanmıştır.  
+• Sprint Review katılımcıları:Merve Duman, Müberra Sinem,İlker Nohutcu
+## •  Sprint Retrospective :
+Tarih: 21.07.2024  
+Katılımcılar: Merve, Müberra, İlker, İbrahim
+Toplantının Genel Amacı:  
+Geçtiğimiz sprintin değerlendirilmesi, başarılı olan alanların belirlenmesi ve iyileştirme gerektiren konuların tespit edilmesi. Gelecek sprinte dair aksiyon hedefleri.  
+ 
+ Ne İyi Gitti?  
+•	Kurumsal Kimlik: Uygulamanın logo ve reklam görsellerinin tasarımı grup üyelerinin beklentileri doğrultusunda gerçekleştirilmiş oldu.  
+•	Frontend Süreci: Frontend süreci 2.sprint için planlandığı şekilde oldukça verimli geçti. Kısa sürede büyük yol kat edildi.  
+  
+Ne Yanlış Gitti?  
+•	Ekip Sorunları: Her grup üyesinin etkili katılımı sağlanamadı.  
+  
+İyileştirme Fırsatları:  
+•	Görevlere Katılım: Tüm grup üyelerinin görevlerini etkili bir şekilde yerine getirmeye teşvik ederek daha adil bir görev dağılımı sağlamak.
+  
+Aksiyon Maddeleri:  
+1.	Frontend ve Backend Finalizasyonu: Son sprintte frontend ve backend sürecinin final hale getirilmesi.
+2. Uygulamanın sosyal medya hesaplarının oluşturularak kullanıma hazır hale getirilmesi.  
+2. Uygulamanın jüriye sunulacak olan halinin hazırlanması ve github'a yüklenmesi.  
+
+olmak üzere son sprint için alınan aksiyon kararları kayda geçmiştir.  
+</ol>
 </details>
+
