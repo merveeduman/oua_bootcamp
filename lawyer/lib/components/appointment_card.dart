@@ -57,7 +57,6 @@ class _AppointmentCardState extends State<AppointmentCard> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-
                 ],
               ),
             ],

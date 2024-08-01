@@ -1,14 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:lawyer/utils/config.dart';
 
-class LawyerCards extends StatefulWidget {
-  const LawyerCards({Key? key}) : super(key: key);
+class LawyerCards extends StatelessWidget {
+  const LawyerCards({Key? key, required this.route}) : super(key: key);
 
-  @override
-  State<LawyerCards> createState() => _LawyerCardsState();
-}
+  final String route;
 
-class _LawyerCardsState extends State<LawyerCards> {
   @override
   Widget build(BuildContext context) {
     Config().init(context);
@@ -80,6 +77,9 @@ class _LawyerCardsState extends State<LawyerCards> {
             ),
           ]),
         ),
+        onTap: (){
+          Navigator.of(context).pushNamed(route);
+        },
       ),
     );
   }
