@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lawyer/screens/ai_page.dart';
 import 'package:lawyer/screens/appointment_page.dart';
 import 'package:lawyer/screens/home_page.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
@@ -27,6 +28,7 @@ class _MainLayoutState extends State<MainLayout> {
           children: <Widget>[
             const HomePage(),
             const AppointmentPage(),
+            const AiPage(),
           ],
         ),
         bottomNavigationBar: BottomNavigationBar(
@@ -49,6 +51,10 @@ class _MainLayoutState extends State<MainLayout> {
             BottomNavigationBarItem(
               icon: FaIcon(FontAwesomeIcons.solidCalendarCheck),
               label: 'Randevular',
+            ),
+            BottomNavigationBarItem(
+              icon: FaIcon(FontAwesomeIcons.message),
+              label: 'Destek Al',
             ),
           ],
         ));
