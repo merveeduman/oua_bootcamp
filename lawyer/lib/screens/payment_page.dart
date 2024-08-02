@@ -5,12 +5,14 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  static const primaryColor = Color(0xFF4b5d4a);
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'AVUKATIM',
       theme: ThemeData(
-        primaryColor: Colors.green[900],
+        primaryColor: primaryColor,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: PaymentPage(),
@@ -63,7 +65,7 @@ class _PaymentPageState extends State<PaymentPage> {
             children: [
               Icon(
                 Icons.check_circle,
-                color: Colors.green,
+                color: MyApp.primaryColor,
                 size: 80,
               ),
               SizedBox(height: 20),
@@ -102,7 +104,7 @@ class _PaymentPageState extends State<PaymentPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Ödeme Sayfası'),
-        backgroundColor: Colors.green[900], // Yeşil renk ayarı
+        backgroundColor: MyApp.primaryColor, 
       ),
       body: SingleChildScrollView(
         child: Padding(
@@ -178,7 +180,7 @@ class _PaymentPageState extends State<PaymentPage> {
                 ElevatedButton(
                   onPressed: _submitPayment,
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.green[900], // Yeşil renk ayarı
+                    primary: MyApp.primaryColor, 
                   ),
                   child: Text('Ödeme Yap'),
                 ),
@@ -242,7 +244,7 @@ class _PaymentPageState extends State<PaymentPage> {
           Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              SizedBox(height: 40), // "BANKA KARTI" metni için boşluk
+              SizedBox(height: 40), 
               Text(
                 'Kart Numarası',
                 style: TextStyle(fontSize: 18, color: Colors.white),
