@@ -380,11 +380,10 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
 30.07.2024 tarihli on altıncı çevrimiçi toplantıda Müberra'nın oluşturduğu avukat profili ekranı ve randevu için takvim ekranı grup üyeleriyle paylaşılmıştır. İlgili ekran görüntüleri aşağıdaki açılır sekmede verilmiştir. Gelecek toplantının 01.08.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on yedinci toplantı planlanmıştır.   
 
 <details>
-  <summary><h3>ON BEŞİNCİ TOPLANTI EKRAN GÖRÜNTÜLERİ </h3></summary>
+  <summary><h3>On Altıncı Toplantı Ekran Görüntüleri </h3></summary>
   <ol>
    <oi>  
     
-BURAYA GELECEK
 <img src="https://github.com/user-attachments/assets/93013ae5-8cb7-42d1-b816-52909607d887" width="192">
 <img src="https://github.com/user-attachments/assets/cb99a50b-e72c-4f94-8acc-201d030c0e72" width="192">
 
