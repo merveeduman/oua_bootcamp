@@ -61,7 +61,14 @@ Avukatım Mobile
 Avukatım, danışanların ceplerindeki, her seviyedeki ve ilgili alanlardaki hukuki olayları ücretsiz ve ücretli olarak danışabilecekleri hukuki danışmanlık ofisidir.  
 
 ### Ürün Logosu:
-<img src="https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890" width="192">
+<img src="https://github.com/user-attachments/assets/e570687d-ac64-4c3a-9976-b4b676f0a890" width="192">  
+
+### Ürün Fonksiyonları:  
+
+Basit hukuki olaylar hakkında temel danışma hizmeti, temel hukuki bilgilendirmeler, genel kültür ve hukuki bilinçlenme ihtiyaçları için yapay zeka botumuz ücretsiz bir şekilde kullanılabilir. Bu özellik üyelik oluşturmadan da kullanılabilir fakat bu özellik aynı ip bağlantısı üzerinden günde 10 soru ile sınırlıdır. Yapay zeka botuna sınırsız soru sormak için üyelik oluşturmak yeterlidir. Orta seviye danışmanlıklar için danışmak istenilen alan (medeni hukuk, ticaret hukuku vb.) seçilerek, stajyer seviyesinde olan avukatların profilleri incelenerek seçilen avukat ile çevrimiçi görüntülü veya sesli görüşme sağlanabilir. İleri düzey danışmanlıklar için danışmak istenilen alan (medeni hukuk, ticaret hukuku vb.) seçilerek, ileri seviye ve alanında uzman olan avukatların profilleri incelenerek seçilen avukat ile çevrimiçi görüntülü veya sesli görüşme sağlanabilir.  
+
+### Ürünün Çözüm Olduğu Sorunlar:
+Danışan açısından: Avukatlara geleneksel yollarla ve ağızdan ağıza sorarak ulaşma sorununa (avukatların reklam yapmalarının yasak olması nedeniyle) çözüm getirmektedir. Ürün, fiyat segmentasyonu, uzmanlık alanı ve deneyime göre ülkenin farklı yerlerinden birçok avukata erişim imkanı sağlamaktadır. Ayrıca avukatlarla tanışmak ve görüşmek için fiziki büroya gitme zorunluluğunu ortadan kaldırır. Ek olarak danışmanlık ücretleri hakkında ortalama bilgiler ve avukatların profillerindeki daha önceki danışan değerlerdirmeleri de referans olarak önemli bir sorunu ortadan kaldırmaktadır. Ödeme konusunda güvence sunmaktadır. Danışman açısından: Ürün, avukatlar açısından reklam verme yasağını delmeden çevrimiçi faaliyet gösterebilme imkanı sunmaktadır. Ülkenin farklı yerlerinden danışanlara hizmet verme imkanı sunmaktadır. İstihdam içerisinde yer bulamayan genç işsiz avukatların faaliyet gösterebileceği yeni bir alan sunmaktadır. Ödeme alma konusunda güvence sunmaktadır.  
 
 ## • SPRINTS
 
