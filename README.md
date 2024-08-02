@@ -347,10 +347,11 @@ olmak üzere son sprint için alınan aksiyon kararları kayda geçmiştir.
 (Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.)
 Proje boyunca tamamlanması gereken backlog puanı 36'dır. Üçüncü sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 ## • Daily Scrum:
-Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkındaki detaylar konuşularak süreci tüm ekip üyelerinin takip etmesi sağlanmıştır.
-(BURAYA DAILY SCRUM GORSELI GELECEK)
+Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkındaki detaylar konuşularak süreci tüm ekip üyelerinin takip etmesi sağlanmıştır.  
 
-## • TOPLANTILAR VE KARAR VERME AŞAMALARI
+![image](https://github.com/user-attachments/assets/f3aa5be0-8761-406a-acc2-b440f542e767)  
+
+## • TOPLANTILAR VE KARAR VERME AŞAMALARI  
 ### 24.07.2024 (On dördüncü çevrimiçi toplantı)
 
 24.07.2024 tarihinde on dördüncü çevrimiçi toplantı yapılmıştır. Toplantıda 3.sprint görev dağılımları yapılarak not edilmiştir. Toplantı sonrasında görevler İlker tarafından trello'ya işlenerek takvim ve görev takibi altyapısı oluşturulmuştur. Ardından grup üyelerinin kişisel yoğunluklarını atlatması ve akademi haricindeki işlerini tamamlayarak 3.sprint görevleri için zaman imkanı oluşturmaları doğrultusunda tüm grup üyelerine isteğe bağlı olarak 4 gün müsaade izni verilmiştir. Gelecek toplantının 28.07.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on beşinci çevrimiçi toplantı planlanmıştır.  
