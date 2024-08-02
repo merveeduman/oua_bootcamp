@@ -24,8 +24,8 @@ class _AiPage extends State<AiPage> {
   void initState() {
     super.initState();
     _model = GenerativeModel(
-        model: 'gemini-pro',
-        apiKey: "AIzaSyCuVxp9_50r0wnBfZgxItDALGySXgtRrE4"//const String.fromEnvironment('api_key'),
+      model: 'gemini-pro',
+      apiKey: const String.fromEnvironment('api_key'),
     );
     _chatSession = _model.startChat();
   }
@@ -33,73 +33,72 @@ class _AiPage extends State<AiPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
       body: Padding(
         padding: const EdgeInsets.only(left: 5, top: 20, right: 5),
-        child:SafeArea(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.stretch,
-          children:<Widget> [
-            const Text(
-              'Destek Al',
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                fontSize: 18,
-                fontWeight: FontWeight.bold,
+        child: SafeArea(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: <Widget>[
+              const Text(
+                'Destek Al',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                ),
               ),
-            ),
-            Expanded(
-              child: ListView.builder(
-                  controller: _scrollController,
-                  itemCount: _chatSession.history.length,
-                  itemBuilder: (context, index) {
-                    final Content content =
-                    _chatSession.history.toList()[index];
-                    final text = content.parts
-                        .whereType<TextPart>()
-                        .map<String>((e) => e.text)
-                        .join('');
-                    return Message(
-                        text: text, isFromUser: content.role == 'user');
-                  }),
-            ),
-            Padding(
-              padding: EdgeInsets.symmetric(
-                vertical: 25,
-                horizontal: 15,
+              Expanded(
+                child: ListView.builder(
+                    controller: _scrollController,
+                    itemCount: _chatSession.history.length,
+                    itemBuilder: (context, index) {
+                      final Content content =
+                          _chatSession.history.toList()[index];
+                      final text = content.parts
+                          .whereType<TextPart>()
+                          .map<String>((e) => e.text)
+                          .join('');
+                      return Message(
+                          text: text, isFromUser: content.role == 'user');
+                    }),
               ),
-              child: Row(
-                children: [
-                  Expanded(
-                    child: TextField(
-                      autofocus: true,
-                      focusNode: _textFieldFocus,
-                      decoration: textFieldDecoration(),
-                      controller: _textController,
-                      onSubmitted: _sendChatMessage,
-                    ),
-                  ),
-                  const SizedBox(
-                    height: 15,
-                  ),
-                  if (!_loading)
-                    IconButton(
-                      onPressed: () async {
-                        _sendChatMessage(_textController.text);
-                      },
-                      icon: Icon(
-                        Icons.send,
-                        color: Config.primaryColor,
+              Padding(
+                padding: EdgeInsets.symmetric(
+                  vertical: 25,
+                  horizontal: 15,
+                ),
+                child: Row(
+                  children: [
+                    Expanded(
+                      child: TextField(
+                        autofocus: true,
+                        focusNode: _textFieldFocus,
+                        decoration: textFieldDecoration(),
+                        controller: _textController,
+                        onSubmitted: _sendChatMessage,
                       ),
-                    )
-                  else
-                    const CircularProgressIndicator(),
-                ],
+                    ),
+                    const SizedBox(
+                      height: 15,
+                    ),
+                    if (!_loading)
+                      IconButton(
+                        onPressed: () async {
+                          _sendChatMessage(_textController.text);
+                        },
+                        icon: Icon(
+                          Icons.send,
+                          color: Config.primaryColor,
+                        ),
+                      )
+                    else
+                      const CircularProgressIndicator(),
+                  ],
+                ),
               ),
-            ),
-          ],
-        ),
+            ],
+          ),
         ),
       ),
     );
@@ -162,7 +161,7 @@ class _AiPage extends State<AiPage> {
 
   void _scrolDown() {
     WidgetsBinding.instance.addPersistentFrameCallback(
-          (_) => _scrollController.animateTo(
+      (_) => _scrollController.animateTo(
         _scrollController.position.maxScrollExtent,
         duration: const Duration(
           milliseconds: 750,
