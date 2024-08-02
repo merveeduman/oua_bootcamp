@@ -4,7 +4,7 @@ import 'package:lawyer/components/button.dart';
 import 'package:lawyer/components/custom_appbar.dart';
 import 'package:lawyer/utils/config.dart';
 import 'package:table_calendar/table_calendar.dart';
-import 'package:flutter_localizations/flutter_localizations.dart';
+//import 'package:flutter_localizations/flutter_localizations.dart';
 
 class BookingPage extends StatefulWidget {
   BookingPage({Key? key}) : super(key: key);
