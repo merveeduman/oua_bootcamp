@@ -385,8 +385,8 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
    <oi>  
     
 BURAYA GELECEK
-<img src="" width="192">
-<img src="" width="192">
+<img src="https://github.com/user-attachments/assets/93013ae5-8cb7-42d1-b816-52909607d887" width="192">
+<img src="https://github.com/user-attachments/assets/cb99a50b-e72c-4f94-8acc-201d030c0e72" width="192">
 
 
 ## • Product Backlog URL
