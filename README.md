@@ -360,7 +360,8 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
   <ol>
    <oi>  
     
-(BURAYA TRELLO SS GELECEK)
+<img width="1143" alt="Ekran Resmi 2024-08-02 16 58 02" src="https://github.com/user-attachments/assets/88d17121-74ca-49d9-96fc-75ed18116f0a">
+
 
 ## • Product Backlog URL
 • Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp  
@@ -377,6 +378,24 @@ Whatsapp üzerinden genel grubunda görüşmeler devam etmiştir. Proje hakkınd
 ### 30.07.2024 (On altıncı çevrimiçi toplantı)
 
 30.07.2024 tarihli on altıncı çevrimiçi toplantıda Müberra'nın oluşturduğu avukat profili ekranı ve randevu için takvim ekranı grup üyeleriyle paylaşılmıştır. İlgili ekran görüntüleri aşağıdaki açılır sekmede verilmiştir. Gelecek toplantının 01.08.2024 tarihinde yapılması uygun görülmüş ve bu doğrultuda on yedinci toplantı planlanmıştır.   
+
+<details>
+  <summary><h3>ON BEŞİNCİ TOPLANTI EKRAN GÖRÜNTÜLERİ </h3></summary>
+  <ol>
+   <oi>  
+    
+BURAYA GELECEK
+<img src="" width="192">
+<img src="" width="192">
+
+
+## • Product Backlog URL
+• Trello URL: https://trello.com/b/Ms4Jn6Nk/bootcamp  
+
+</ol>
+ <oi>  
+  
+ </details>  
 
 
 ### 01.08.2024 (On yedinci çevrimiçi toplantı)
