@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:lawyer/screens/auth_page.dart';
+import 'package:lawyer/screens/booking_page.dart';
+import 'package:lawyer/screens/lawyer_details.dart';
+import 'package:lawyer/screens/success.booked.dart';
 import 'package:lawyer/utils/config.dart';
-import 'intro_page.dart';
-
 import 'main_layout.dart';
 
 void main() {
@@ -36,7 +37,7 @@ class MyApp extends StatelessWidget {
           selectedItemColor: Colors.white,
           showSelectedLabels: true,
           showUnselectedLabels: false,
-          unselectedItemColor: Colors.grey.shade700,
+          unselectedItemColor: Colors.grey.shade500,
           elevation: 10,
           type: BottomNavigationBarType.fixed,
         ),
@@ -45,9 +46,9 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (context) => const AuthPage(),
         'main': (context) => const MainLayout(),
-        'intro': (context) => IntroPage(),
-        //'booking_page': (context) => BookingPage(),
-        //'success_booking': (context) => const AppointmentBooked(),
+        'lawyer_detail': (context) => const LawyerDetails(),
+        'booking_page' : (context) =>  BookingPage(),
+        'success_booking': (context) => const AppointmentBooked(),
       },
     );
   }
